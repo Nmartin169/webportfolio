@@ -127,4 +127,4 @@ Using common tools in business analysis like SWOT analysis, Porter’s value cha
 The analysis covers areas in the aforementioned organisations, detailing key strategic and organisational placement of the businesses and their various goods or services.
 
 
-<img src="access/Img_internal.JPG">
+<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/Img_internal.JPG">
