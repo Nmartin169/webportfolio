@@ -1,9 +1,6 @@
 # Business Data Analyst
 
 <a href="https://www.linkedin.com/in/ikenna-nwankwo-3a2390258">LinkedIn profile</a>
-
-
- 
  
  
 ### Work Experience
@@ -33,7 +30,7 @@ Business Analyst Trainee @ Brainnest (2023)
 
 
 
-##
+
 
 Using a combination of management, business intelligence, research, data analysis, and problem-solving skills, I am able to not only capture business performances and progress but also predict, recommend, and facilitate future business decisions.
 
