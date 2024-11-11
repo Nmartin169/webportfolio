@@ -46,7 +46,7 @@ This portfolio captures various aspects of my work in research, analytics, and b
  
 ### Business and Culture in China
  
-<a href="Link">View project here</a>
+<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/ET2qLTVabBNEuGAfnNA2p38BAbRJ7VTOM7Rz8EVy4sHIsw?e=jzJ1Lw">View project here</a>
 
 
  
