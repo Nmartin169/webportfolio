@@ -72,6 +72,7 @@ A well-detailed research covering information from both scholarly sources and no
 
 
 
+
 ## DATA PROJECT
  
 ### Predictive Analysis of Housing Using Machine Learning
@@ -112,7 +113,7 @@ Reduces manual impute of data by 70% with data optimised from 3 worksheets.
  
 ### External Business Analysis
 
-<a href="Link">View project here</a>
+<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/EUz2wk09b9NFlbN_kRiHyBYB6LjMX5PQtRmAks92gZuvIg?e=Kdndk3">View project here</a>
 
  
 Employed business tools like the PESTEL analysis, Porter’s Diamond model, and Porter’s five forces to ascertain the external state, looking into factor conditions outside of Body Shop (UK), France perfume industry, and Financial Education Crew (India), respectively, and understanding how it plays a role in the results amassed in those sectors and countries.
