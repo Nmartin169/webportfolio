@@ -57,6 +57,9 @@ Detailing the environment, culture, and the risk of doing business in China, inc
 This project covers information from several sources on the web, capturing recommendations needed to mitigate any potential risk to doing business in China.
 
 
+<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/china_research.JPG">
+
+
 ### The Effect of Malaria on the Nigerian Economy (APA style formatting)
  
 <a href="Link">View project here</a>
