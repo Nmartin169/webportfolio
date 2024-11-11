@@ -34,7 +34,7 @@ IBM Data Analyst Professional Certificate | Coursera 
 
 
 
-Using a combination of management, business intelligence, research, data analysis, and problem-solving skills, I am able to not only capture business performances and progress but also predict, recommend, and facilitate future business decisions.
+>> Using a combination of management, business intelligence, research, data analysis, and problem-solving skills, I am able to not only capture business performances and progress but also predict, recommend, and facilitate future business decisions.
 
 
 
@@ -72,8 +72,8 @@ A well-detailed research covering information from both scholarly sources and no
 
 
 
-
 ## DATA PROJECT
+
  
 ### Predictive Analysis of Housing Using Machine Learning
  
