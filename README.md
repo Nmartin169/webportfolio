@@ -115,7 +115,12 @@ Reduces manual impute of data by 70% with data optimised from 3 worksheets.
  
 Employed business tools like the PESTEL analysis, Porter’s Diamond model, and Porter’s five forces to ascertain the external state, looking into factor conditions outside of Body Shop (UK), France perfume industry, and Financial Education Crew (India), respectively, and understanding how it plays a role in the results amassed in those sectors and countries.
  
- 
+
+<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/img_external.JPG">
+
+
+ 
+
  
 ### Internal Business Analysis
  
