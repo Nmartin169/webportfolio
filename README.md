@@ -12,14 +12,12 @@ This portfolio captures various aspects of my work in research, analytics, and b
  
 Data Analyst @ Moobiq World (2024)
  
-
 - I made a 30% increase in student conversion rate.
 - Maintained a steady and consistent course flow through a 3-course program, which I facilitated.
 - Had 80% success rate on student communication program for dashboard presentation.
 
  
 Business Analyst Trainee @ Brainnest (2023)
- 
 
 - Successfully conducted competitive analysis on the French cosmetic industry, utilising the Porter’s diamond model. 
 - Mapped out, with a group of five, the external environment of the UK's bodyshop company.
@@ -27,12 +25,11 @@ Business Analyst Trainee @ Brainnest (2023)
 
  
  
- 
 ### Education
  
-* Business Administration, BBA, Specialisation in Business Analysis | Nextford University, Washington DC 
-* IBM Data Science Professional Certificate | Coursera 
-* IBM Data Analyst Professional Certificate | Coursera 
+- Business Administration, BBA, Specialisation in Business Analysis | Nextford University, Washington DC 
+- IBM Data Science Professional Certificate | Coursera 
+- IBM Data Analyst Professional Certificate | Coursera 
 
  
  
@@ -45,9 +42,8 @@ Business Analyst Trainee @ Brainnest (2023)
 Detailing the environment, culture, and the risk of doing business in China, including the advantages and disadvantages of choosing a Chinese joint venture as an entry strategy for international business dealings with China.
  
 This project covers information from several sources on the web, capturing recommendations needed to mitigate any potential risk to doing business in China.
- 
- 
- 
+
+
 ### The Effect of Malaria on the Nigerian Economy (APA style formatting)
  
 >> pdf
@@ -56,8 +52,6 @@ A well-detailed research covering information from both scholarly sources and no
  
 
 
- 
- 
 ## DATA Project
  
 ### Predictive Analysis of Housing Using Machine Learning
@@ -68,7 +62,7 @@ Predicted the price of housing in King County (USA) using features like the squa
 waterfront availability.
  
  
- 
+
 ### Dash App Development for US Domestic Airline Flight Performance
  
 >> publication
