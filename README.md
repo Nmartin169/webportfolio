@@ -126,7 +126,7 @@ Employed business tools like the PESTEL analysis, Porter’s Diamond model, and 
  
 ### Internal Business Analysis
  
-<a href="Link">View project here</a>
+<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/EVTHwxdAB_ZJlm4IQCJnwjYBuvRIZGqyn7fEQmPX8PYi1Q?e=MZ3zs6">View project here</a>
 
  
 Using common tools in business analysis like SWOT analysis, Porter’s value chain, and the BCG matrix to capture the operations and structure of Financial Education Crew, Medical International, and Dangote Group, respectively. 
