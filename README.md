@@ -21,9 +21,11 @@ Business Analyst Trainee @ Brainnest (2023)
  
  
 ### Education
-* BBA,Business Administration, Specialisation in Business Analysis | Nextford University, Washington DC
-* IBM Data Science Professional Certificate | Coursera
-* IBM Data Analyst Professional Certificate | Coursera 
+BBA,Business Administration, Specialisation in Business Analysis | Nextford University, Washington DC
+
+IBM Data Science Professional Certificate | Coursera
+
+IBM Data Analyst Professional Certificate | Coursera 
 
 
 
