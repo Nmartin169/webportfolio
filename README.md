@@ -125,3 +125,6 @@ Employed business tools like the PESTEL analysis, Porter’s Diamond model, and 
 Using common tools in business analysis like SWOT analysis, Porter’s value chain, and the BCG matrix to capture the operations and structure of Financial Education Crew, Medical International, and Dangote Group, respectively. 
  
 The analysis covers areas in the aforementioned organisations, detailing key strategic and organisational placement of the businesses and their various goods or services.
+
+
+<img src="access/Img_internal.JPG">
