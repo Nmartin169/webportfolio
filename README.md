@@ -33,7 +33,7 @@ Business Analyst Trainee @ Brainnest (2023)
 
  
  
-## RESEARCH Project
+## RESEARCH PROJECT
  
 ### Business and Culture in China
  
@@ -52,7 +52,7 @@ A well-detailed research covering information from both scholarly sources and no
  
 
 
-## DATA Project
+## DATA PROJECT
  
 ### Predictive Analysis of Housing Using Machine Learning
  
@@ -82,7 +82,7 @@ Reduces manual impute of data by 70% with data optimised from 3 worksheets.
 
  
  
-## BUSINESS Projects
+## BUSINESS PROJECT
  
 ### External Business Analysis
  
