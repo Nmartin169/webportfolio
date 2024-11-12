@@ -143,3 +143,9 @@ The analysis covers areas in the aforementioned organisations, detailing key str
 
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/Img_internal.JPG">
+
+
+
+
+### Find more projects, codes, general informations, incluing certifications, and documentations 
+<a href="https://github.com/Nmartin169/Nportfolio">here</a>
