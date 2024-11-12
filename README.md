@@ -68,6 +68,8 @@ This project covers information from several sources on the web, capturing recom
  
 A well-detailed research covering information from both scholarly sources and non-scholarly sources on the state of the Nigerian economy with respect to the effect of malaria. It also covers a validity check of the various sources, identifying the emotions and biases of the different publications to access the validity of the information collected.
  
+<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/malaria_ng.JPG">
+
 
 
 
