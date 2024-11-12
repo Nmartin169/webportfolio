@@ -114,7 +114,7 @@ waterfront availability.
  
 ### External Business Analysis
 
-<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/EUz2wk09b9NFlbN_kRiHyBYB6LjMX5PQtRmAks92gZuvIg?e=Kdndk3">View project</a>
+<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/EUz2wk09b9NFlbN_kRiHyBYBLWBqj29pDGGiP0GhSoVAfw?e=yutZiE">View project</a>
 
 >Employed business tools like the PESTEL analysis, Porter’s Diamond model, and Porter’s five forces to ascertain the external state, looking into factor conditions outside of Body Shop (UK), France perfume industry, and Financial Education Crew (India), respectively, and understanding how it plays a role in the results amassed in those sectors and countries.
  
@@ -127,7 +127,7 @@ waterfront availability.
  
 ### Internal Business Analysis
  
-<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/EVTHwxdAB_ZJlm4IQCJnwjYBuvRIZGqyn7fEQmPX8PYi1Q?e=MZ3zs6">View project</a>
+<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/ETfAfV3QTOlDl9ykiCd3N18BtpNhVjUsOiyR49W8ZeuRXQ?e=qkGxD2">View project</a>
 
 >Using common tools in business analysis like SWOT analysis, Porter’s value chain, and the BCG matrix to capture the operations and structure of Financial Education Crew, Medical International, and Dangote Group, respectively. 
  
