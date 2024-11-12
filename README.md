@@ -46,7 +46,7 @@ This portfolio captures various aspects of my work in research, analytics, and b
  
 ### Business and Culture in China
  
-<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/ET2qLTVabBNEuGAfnNA2p38BAbRJ7VTOM7Rz8EVy4sHIsw?e=jzJ1Lw">View project here</a>
+<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/ET2qLTVabBNEuGAfnNA2p38BAbRJ7VTOM7Rz8EVy4sHIsw?e=jzJ1Lw">View project</a>
 
 
  
@@ -62,7 +62,7 @@ This project covers information from several sources on the web, capturing recom
 
 ### The Effect of Malaria on the Nigerian Economy (APA style formatting)
  
-<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/ET5FTUGRy_tCoKJ82nPZE_4Bw56VpLoGrA8m_ve0sdsddQ?e=9UsBYp">View project here</a>
+<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/ET5FTUGRy_tCoKJ82nPZE_4Bw56VpLoGrA8m_ve0sdsddQ?e=9UsBYp">View project</a>
 
 
  
@@ -84,7 +84,7 @@ A well-detailed research covering information from both scholarly sources and no
  
 ### Predictive Analysis of Housing Using Machine Learning
  
-<a href="Link">View project here</a>
+<a href="Link">View project</a>
 
 
  
@@ -95,7 +95,7 @@ waterfront availability.
 
 ### Dash App Development for US Domestic Airline Flight Performance
  
-<a href="Link">View project here</a>
+<a href="Link">View project</a>
 
 
  
@@ -107,7 +107,7 @@ Integrated the Dash API, developed the web application using HTML framework, con
 ### Data Entry Automation on Excel using VBA, Data Validation, and Lookup functions
 
  
-<a href="Link">View project here</a>
+<a href="Link">View project</a>
 
  
 Reduces manual impute of data by 70% with data optimised from 3 worksheets.
@@ -120,7 +120,7 @@ Reduces manual impute of data by 70% with data optimised from 3 worksheets.
  
 ### External Business Analysis
 
-<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/EUz2wk09b9NFlbN_kRiHyBYB6LjMX5PQtRmAks92gZuvIg?e=Kdndk3">View project here</a>
+<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/EUz2wk09b9NFlbN_kRiHyBYB6LjMX5PQtRmAks92gZuvIg?e=Kdndk3">View project</a>
 
  
 Employed business tools like the PESTEL analysis, Porter’s Diamond model, and Porter’s five forces to ascertain the external state, looking into factor conditions outside of Body Shop (UK), France perfume industry, and Financial Education Crew (India), respectively, and understanding how it plays a role in the results amassed in those sectors and countries.
@@ -134,7 +134,7 @@ Employed business tools like the PESTEL analysis, Porter’s Diamond model, and 
  
 ### Internal Business Analysis
  
-<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/EVTHwxdAB_ZJlm4IQCJnwjYBuvRIZGqyn7fEQmPX8PYi1Q?e=MZ3zs6">View project here</a>
+<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/EVTHwxdAB_ZJlm4IQCJnwjYBuvRIZGqyn7fEQmPX8PYi1Q?e=MZ3zs6">View project</a>
 
  
 Using common tools in business analysis like SWOT analysis, Porter’s value chain, and the BCG matrix to capture the operations and structure of Financial Education Crew, Medical International, and Dangote Group, respectively. 
