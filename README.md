@@ -10,20 +10,8 @@ Data Analyst @ Moobiq World (2024)
 * I made a 30% increase in student conversion rate.
 * Maintained a steady and consistent course flow through a 3-course program, which I facilitated.
 * Had 80% success rate on student communication program for dashboard presentation.
- 
- <table>
-   <tr>
-       <td>* I made a 30% increase             in student conversion               rate.
-       </td>
-   <tr>
-       <td>* Maintained a steady               and consistent course               flow through a 3-course             program, which I                    facilitated.
-       <td>
-   </tr>
-       <td>* Had 80% success rate               on student                          communication program               for dashboard                       presentation.
-       <td>
-   </tr>
- </table>
 
+ 
  
 Business Analyst Trainee @ Brainnest (2023)
 
