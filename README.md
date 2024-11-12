@@ -79,12 +79,14 @@ This portfolio captures various aspects of my work in research, analytics, and b
  
 ### Predictive Analysis of Housing Using Machine Learning
  
-<a href="Link">View project</a>
+<a href="https://github.com/Nmartin169/Nportfolio/blob/main/DATA%20MINING/PREDICTIVE_ANALYSIS_ON_HOUSING_USING_MACHINE_LEARNING.ipynb">View project</a>
 
 >Predicted the price of housing in King County (USA) using features like the square- foot of its living room, number of floors, and
 waterfront availability.
- 
- 
+
+<img src="Url">
+
+
 
 ### Dash App Development for US Domestic Airline Flight Performance
  
