@@ -84,7 +84,9 @@ This portfolio captures various aspects of my work in research, analytics, and b
 >Predicted the price of housing in King County (USA) using features like the square- foot of its living room, number of floors, and
 waterfront availability.
 
-<img src="Url">
+<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/housing_prediction.JPG">
+
+
 
 
 
