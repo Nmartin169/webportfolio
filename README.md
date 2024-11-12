@@ -59,7 +59,7 @@ This portfolio captures various aspects of my work in research, analytics, and b
 
 ### The Effect of Malaria on the Nigerian Economy (APA style formatting)
  
-<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/ET5FTUGRy_tCoKJ82nPZE_4Bw56VpLoGrA8m_ve0sdsddQ?e=9UsBYp">View project</a>
+<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/ET5FTUGRy_tCoKJ82nPZE_4BV2jNR_Ymyj9Gk0zRWjheUQ?e=FOGmCc">View project</a>
 
 >A well-detailed research covering information from both scholarly sources and non-scholarly sources on the state of the Nigerian economy with respect to the effect of malaria. It also covers a validity check of the various sources, identifying the emotions and biases of the different publications to access the validity of the information collected.
 
