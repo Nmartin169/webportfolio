@@ -34,11 +34,11 @@ IBM Data Analyst Professional Certificate | Coursera 
 
 
 
-Using a combination of management, business intelligence, research, data analysis, and problem-solving skills, I am able to not only capture business performances and progress but also predict, recommend, and facilitate future business decisions.
+*Using a combination of management, business intelligence, research, data analysis, and problem-solving skills, I am able to not only capture business performances and progress but also predict, recommend, and facilitate future business decisions.
 
 
 
-This portfolio captures various aspects of my work in research, analytics, and business.
+*This portfolio captures various aspects of my work in research, analytics, and business.
 
  
  
@@ -50,11 +50,11 @@ This portfolio captures various aspects of my work in research, analytics, and b
 
 
  
-Detailing the environment, culture, and the risk of doing business in China, including the advantages and disadvantages of choosing a Chinese joint venture as an entry strategy for international business dealings with China.
+>Detailing the environment, culture, and the risk of doing business in China, including the advantages and disadvantages of choosing a Chinese joint venture as an entry strategy for international business dealings with China.
 
 
  
-This project covers information from several sources on the web, capturing recommendations needed to mitigate any potential risk to doing business in China.
+>This project covers information from several sources on the web, capturing recommendations needed to mitigate any potential risk to doing business in China.
 
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/china_research.JPG">
@@ -66,7 +66,7 @@ This project covers information from several sources on the web, capturing recom
 
 
  
-A well-detailed research covering information from both scholarly sources and non-scholarly sources on the state of the Nigerian economy with respect to the effect of malaria. It also covers a validity check of the various sources, identifying the emotions and biases of the different publications to access the validity of the information collected.
+>A well-detailed research covering information from both scholarly sources and non-scholarly sources on the state of the Nigerian economy with respect to the effect of malaria. It also covers a validity check of the various sources, identifying the emotions and biases of the different publications to access the validity of the information collected.
 
 
 
@@ -88,7 +88,7 @@ A well-detailed research covering information from both scholarly sources and no
 
 
  
-Predicted the price of housing in King County (USA) using features like the square- foot of its living room, number of floors, and
+>Predicted the price of housing in King County (USA) using features like the square- foot of its living room, number of floors, and
 waterfront availability.
  
  
@@ -99,7 +99,7 @@ waterfront availability.
 
 
  
-Integrated the Dash API, developed the web application using HTML framework, connected the data source, created an interactive dashboard to display flight performance of real life data.
+>Integrated the Dash API, developed the web application using HTML framework, connected the data source, created an interactive dashboard to display flight performance of real life data.
  
  
  
@@ -110,7 +110,7 @@ Integrated the Dash API, developed the web application using HTML framework, con
 <a href="Link">View project</a>
 
  
-Reduces manual impute of data by 70% with data optimised from 3 worksheets.
+>Reduces manual impute of data by 70% with data optimised from 3 worksheets.
  
 
 
@@ -123,7 +123,7 @@ Reduces manual impute of data by 70% with data optimised from 3 worksheets.
 <a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/EUz2wk09b9NFlbN_kRiHyBYB6LjMX5PQtRmAks92gZuvIg?e=Kdndk3">View project</a>
 
  
-Employed business tools like the PESTEL analysis, Porter’s Diamond model, and Porter’s five forces to ascertain the external state, looking into factor conditions outside of Body Shop (UK), France perfume industry, and Financial Education Crew (India), respectively, and understanding how it plays a role in the results amassed in those sectors and countries.
+>Employed business tools like the PESTEL analysis, Porter’s Diamond model, and Porter’s five forces to ascertain the external state, looking into factor conditions outside of Body Shop (UK), France perfume industry, and Financial Education Crew (India), respectively, and understanding how it plays a role in the results amassed in those sectors and countries.
  
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/img_external.JPG">
@@ -137,9 +137,9 @@ Employed business tools like the PESTEL analysis, Porter’s Diamond model, and 
 <a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/EVTHwxdAB_ZJlm4IQCJnwjYBuvRIZGqyn7fEQmPX8PYi1Q?e=MZ3zs6">View project</a>
 
  
-Using common tools in business analysis like SWOT analysis, Porter’s value chain, and the BCG matrix to capture the operations and structure of Financial Education Crew, Medical International, and Dangote Group, respectively. 
+>Using common tools in business analysis like SWOT analysis, Porter’s value chain, and the BCG matrix to capture the operations and structure of Financial Education Crew, Medical International, and Dangote Group, respectively. 
  
-The analysis covers areas in the aforementioned organisations, detailing key strategic and organisational placement of the businesses and their various goods or services.
+>The analysis covers areas in the aforementioned organisations, detailing key strategic and organisational placement of the businesses and their various goods or services.
 
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/Img_internal.JPG">
@@ -147,5 +147,4 @@ The analysis covers areas in the aforementioned organisations, detailing key str
 
 
 
-### Find more projects, codes, general informations, incluing certifications, and documentations 
-<a href="https://github.com/Nmartin169/Nportfolio">here</a>
+Find more projects, codes, and general information, including certifications and documentation, <a href="https://github.com/Nmartin169/Nportfolio">here</a>.
