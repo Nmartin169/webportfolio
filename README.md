@@ -7,9 +7,9 @@
  
 Data Analyst @ Moobiq World (2024)
  
-- I made a 30% increase in student conversion rate.
-- Maintained a steady and consistent course flow through a 3-course program, which I facilitated.
-- Had 80% success rate on student communication program for dashboard presentation.
+| - I made a 30% increase in student conversion rate. |
+| - Maintained a steady and consistent course flow through a 3-course program, which I facilitated.|
+| - Had 80% success rate on student communication program for dashboard presentation. |
 
  
 Business Analyst Trainee @ Brainnest (2023)
@@ -34,11 +34,11 @@ IBM Data Analyst Professional Certificate | Coursera 
 
 
 
-** Using a combination of management, business intelligence, research, data analysis, and problem-solving skills, I am able to not only capture business performances and progress but also predict, recommend, and facilitate future business decisions.
+Using a combination of management, business intelligence, research, data analysis, and problem-solving skills, I am able to not only capture business performances and progress but also predict, recommend, and facilitate future business decisions.
 
 
 
-** This portfolio captures various aspects of my work in research, analytics, and business.
+This portfolio captures various aspects of my work in research, analytics, and business.
 
  
  
