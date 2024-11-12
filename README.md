@@ -47,7 +47,7 @@ This portfolio captures various aspects of my work in research, analytics, and b
  
 ### Business and Culture in China
  
-<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/ET2qLTVabBNEuGAfnNA2p38BAbRJ7VTOM7Rz8EVy4sHIsw?e=jzJ1Lw">View project</a>
+<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/ET2qLTVabBNEuGAfnNA2p38BFQ7rlLluCIPbDNAXuwc6bQ?e=SigGHH">View project</a>
 
 >Detailing the environment, culture, and the risk of doing business in China, including the advantages and disadvantages of choosing a Chinese joint venture as an entry strategy for international business dealings with China.
 
