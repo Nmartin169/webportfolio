@@ -1,7 +1,9 @@
 # Business Data Analyst
 
 <a href="https://www.linkedin.com/in/ikenna-nwankwo-3a2390258">LinkedIn profile</a>
- 
+
+
+Professional Certifications <a href="https://github.com/Nmartin169/Nportfolio/tree/main/CERTIFICATIONS">here</a>.
  
 ### Work Experience
  
