@@ -60,7 +60,7 @@ This portfolio captures various aspects of my work in research, analytics, and b
 
 
 
-
+ 
 ### The Effect of Malaria on the Nigerian Economy (APA style formatting)
  
 <a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/ET5FTUGRy_tCoKJ82nPZE_4BV2jNR_Ymyj9Gk0zRWjheUQ?e=FOGmCc">View project</a>
@@ -85,8 +85,7 @@ waterfront availability.
 
 
 
-
-  
+ 
   
 ### Dash App Development for US Domestic Airline Flight Performance
  
@@ -94,8 +93,8 @@ waterfront availability.
 
 >Integrated the Dash API, developed the web application using HTML framework, connected the data source, created an interactive dashboard to display flight performance of real life data.
  
- 
- 
+
+
  
 ### Data Entry Automation on Excel using VBA, Data Validation, and Lookup functions
 
@@ -119,8 +118,6 @@ waterfront availability.
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/img_external.JPG">
 
-
- 
 
  
 ### Internal Business Analysis
