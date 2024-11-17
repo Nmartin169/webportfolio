@@ -66,7 +66,8 @@ This portfolio captures various aspects of my work in research, analytics, and b
 <a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/ET5FTUGRy_tCoKJ82nPZE_4BV2jNR_Ymyj9Gk0zRWjheUQ?e=FOGmCc">View project</a>
 
 >A well-detailed research covering information from both scholarly sources and non-scholarly sources on the state of the Nigerian economy with respect to the effect of malaria. It also covers a validity check of the various sources, identifying the emotions and biases of the different publications to access the validity of the information collected.
- 
+
+
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/malaria_ng.JPG">
 
  
