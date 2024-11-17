@@ -84,7 +84,8 @@ waterfront availability.
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/housing_prediction.JPG">
  
 
-
+ 
+ 
 
 ### Analysis on the Current Trend of Software Technologies
 
@@ -94,9 +95,10 @@ waterfront availability.
  
 >This report gives perspective on what software and technologies are currently in high demand and which one of them is expected to be in the coming years.
 
-<img src="">
+<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/technologies_trend.JPG">
 
-
+ 
+ 
   
 ### Dash App Development for US Domestic Airline Flight Performance
  
