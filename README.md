@@ -83,7 +83,6 @@ This portfolio captures various aspects of my work in research, analytics, and b
 waterfront availability.
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/housing_prediction.JPG">
- 
 
  
  
