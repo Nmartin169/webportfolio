@@ -87,7 +87,6 @@ waterfront availability.
 
  
  
-
 ### Analysis on the Current Trend of Software Technologies
 
 <a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/ET-YJyr_G5BIgZaLkmsH2hYBgZ2g0ZXgOGUxlnO56oVuvg?e=CfZvSK">View project</a>
