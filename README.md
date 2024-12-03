@@ -88,7 +88,7 @@ waterfront availability.
  
 ### Analysis on the Current Trend of Software Technologies
 
-<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/ET-YJyr_G5BIgZaLkmsH2hYBgZ2g0ZXgOGUxlnO56oVuvg?e=CfZvSK">View project</a>
+<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/EScWhrjqWnlOpl3YCyKs4HIBtM6uRsccD_xybxzqXLv-rQ">View project</a>
 
 >Technological advancement is on an ever-growing high. With new software emerging, one can easily miss out on the current big move in the tech industry.
  
