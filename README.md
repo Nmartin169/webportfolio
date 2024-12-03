@@ -123,7 +123,7 @@ waterfront availability.
  
 ### External Business Analysis
 
-<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/EUz2wk09b9NFlbN_kRiHyBYBLWBqj29pDGGiP0GhSoVAfw?e=yutZiE">View project</a>
+<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/EcL3k_nGPb5FuuKMbKXiBZsBnCAEagwxnOO5J6_wxHQBAw">View project</a>
 
 >Employed business tools like the PESTEL analysis, Porter’s Diamond model, and Porter’s five forces to ascertain the external state, looking into factor conditions outside of Body Shop (UK), France perfume industry, and Financial Education Crew (India), respectively, and understanding how it plays a role in the results amassed in those sectors and countries.
  
