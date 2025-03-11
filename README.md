@@ -113,7 +113,10 @@ waterfront availability.
  
 <a href="Link">View project</a>
 
->Reduces manual impute of data by 70% with data optimised from 3 worksheets.
+>Prototype designed for Rhithm sales computation.
+>Reduces manual impute of data by 80% with data optimised from 3 worksheets.
+>Reduced computational error by as much as 70%
+
 
 <iframe width="315" height="315"
 src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
