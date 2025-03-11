@@ -114,6 +114,8 @@ waterfront availability.
 <a href="Link">View project</a>
 
 >Reduces manual impute of data by 70% with data optimised from 3 worksheets.
+
+<video controls=“https://youtube.com/shorts/ZUPiP6YNlXs?si=qHxutfOoCWAgDQOZ” src=“”></video>
  
 
 
