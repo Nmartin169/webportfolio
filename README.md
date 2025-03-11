@@ -115,7 +115,7 @@ waterfront availability.
 
 >Reduces manual impute of data by 70% with data optimised from 3 worksheets.
 
-<video controls=“” src=“https://youtube.com/shorts/ZUPiP6YNlXs?si=qHxutfOoCWAgDQOZ”></video>
+<video controls=“” src=“https://youtube.com/shorts/ZUPiP6YNlXs?si=qHxutfOoCWAgDQOZ”>
 
  
 
