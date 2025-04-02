@@ -103,7 +103,7 @@ waterfront availability.
 <a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/EScWhrjqWnlOpl3YCyKs4HIBtM6uRsccD_xybxzqXLv-rQ">View project</a>
 
 >Technological advancement is on an ever-growing high. With new software emerging, one can easily miss out on the current big move in the tech industry.
- 
+
 >This report gives perspective on what software and technologies are currently in high demand and which one of them is expected to be in the coming years.
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/technologies_trend.JPG">
