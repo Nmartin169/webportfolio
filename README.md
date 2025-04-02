@@ -75,6 +75,17 @@ This portfolio captures various aspects of my work in research, analytics, and b
 ## DATA PROJECT
  
 
+### Compliance Analysis 
+ 
+<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/EWreXSzBGYVPl2Rl4UmAkRABvbE1gcUSybmLEdkSBn1YKw?e=KjYyU5">View project</a>
+
+> Having the demand for compliance with labor law’s equal employment and opportunity practices, this analysis gives a detailed description of the current state of Maka Black Café’s employee demographics, comparing its salary bases with those of its industry.
+
+<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/img_compliance.PNG">
+
+ 
+ 
+  
 ### Predictive Analysis of Housing Using Machine Learning
  
 <a href="https://github.com/Nmartin169/Nportfolio/blob/main/DATA%20MINING/PREDICTIVE_ANALYSIS_ON_HOUSING_USING_MACHINE_LEARNING.ipynb">View project</a>
