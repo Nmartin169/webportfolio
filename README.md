@@ -83,9 +83,9 @@ This portfolio captures various aspects of my work in research, analytics, and b
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/img_compliance.PNG">
 
+
+
  
- 
-  
 ### Predictive Analysis of Housing Using Machine Learning
  
 <a href="https://github.com/Nmartin169/Nportfolio/blob/main/DATA%20MINING/PREDICTIVE_ANALYSIS_ON_HOUSING_USING_MACHINE_LEARNING.ipynb">View project</a>
@@ -95,8 +95,9 @@ waterfront availability.
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/housing_prediction.JPG">
 
+
+
  
- 
 ### Analysis on the Current Trend of Software Technologies
 
 <a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/EScWhrjqWnlOpl3YCyKs4HIBtM6uRsccD_xybxzqXLv-rQ">View project</a>
@@ -107,15 +108,15 @@ waterfront availability.
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/technologies_trend.JPG">
 
+
+
  
- 
-  
 ### Dash App Development for US Domestic Airline Flight Performance
  
 <a href="https://github.com/Nmartin169/Nportfolio/tree/main/Dash%20App%20Development%20for%20US%20Domestic%20Airline%20Flight%20Performance">View project</a>
 
 >Integrated the Dash API, developed the web application using HTML framework, connected the data source, created an interactive dashboard to display flight performance of real life data.
- 
+
 
 
  
