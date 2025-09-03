@@ -7,7 +7,7 @@ Certifications <a href="https://github.com/Nmartin169/Nportfolio/tree/main/CERTI
  
 ### Work Experience
 
-Independent Consultant — Business Analyst.  Onsite (2025)
+Independent Consultant — Business Analyst.  (2025)
 
 * iCreateClarity (Media & PR): A keen focus on operational workflow and improvement across several functional areas and management consulting.
 * Ja3d’r (Fashion Brand): Product marketability, production, and operational strategies for optimum yield in market adoption and appropriation.
