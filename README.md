@@ -66,7 +66,7 @@ This portfolio captures various aspects of my work in research, analytics, and b
 
 
  
-### The Effect of Malaria on the Nigerian Economy (APA style formatting)
+### The Effect of Malaria on the Nigerian Economy 
  
 <a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/ET5FTUGRy_tCoKJ82nPZE_4BV2jNR_Ymyj9Gk0zRWjheUQ?e=FOGmCc">View project</a>
 
