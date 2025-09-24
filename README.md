@@ -1,4 +1,4 @@
-# Business Consultant
+# Business Consulting
 
 <a href="https://www.linkedin.com/in/ikenna-m-d-nwankwo-3a2390258">LinkedIn profile</a>
 
