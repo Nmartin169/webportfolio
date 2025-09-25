@@ -64,7 +64,7 @@ This portfolio captures various aspects of my work in research, analytics, and b
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/china_research.JPG">
 
 
-
+ 
 ### DeltaTech Manufacturing’s Production Decision Analysis (Q2 2024) 
  
 <a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/Ea_MzY9oLEBBqxksMn90H_YBJDjz4Y6UzaS2hBF0Til9zQ?e=lGEKV5">View project</a>
@@ -72,7 +72,7 @@ This portfolio captures various aspects of my work in research, analytics, and b
 >In this report, I analyze the financial performance of DeltaTech Manufacturing’s DeltaPro Wireless Headphones for Q2 2024. This review emphasizes four critical financial measures (operating leverage, contribution margin, break-even point, and actual operating profit) to understand how production and sales volume impact profitability.
 
 
-<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/malaria_ng.JPG">
+<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/DeltaTech_manufacturing.jpg">
 
 
  
