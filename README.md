@@ -72,7 +72,7 @@ This portfolio captures various aspects of my work in research, analytics, and b
 >In this report, I analyze the financial performance of DeltaTech Manufacturing’s DeltaPro Wireless Headphones for Q2 2024. This review emphasizes four critical financial measures (operating leverage, contribution margin, break-even point, and actual operating profit) to understand how production and sales volume impact profitability.
 
 
-<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/DeltaTech_manufacturing.jpg">
+<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/DeltaTech.jpg">
 
 
  
