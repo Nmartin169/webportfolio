@@ -56,9 +56,9 @@ This portfolio captures various aspects of my work in research, analytics, and b
  
 <a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/ET2qLTVabBNEuGAfnNA2p38B4gvkgD0HiqUwpaqgQ5RHvw?e=UjvjTB">View project</a>
 
->Detailing the environment, culture, and the risk of doing business in China, including the advantages and disadvantages of choosing a Chinese joint venture as an entry strategy for international business dealings with China.
+>This research provides key insights into the economic, cultural, and regulatory environment of China, equipping businesses with the critical knowledge needed to make informed decisions when planning a new location.
 
->This project covers information from several sources on the web, capturing recommendations needed to mitigate any potential risk to doing business in China.
+>By highlighting market opportunities, operational challenges, and strategic considerations unique to the region, the findings serve as a practical guide for reducing risk, maximizing growth potential, and ensuring long-term success in one of the world’s most dynamic markets.
 
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/china_research.JPG">
