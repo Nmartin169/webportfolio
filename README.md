@@ -138,7 +138,7 @@ waterfront availability.
 ### Data Entry Automation on Excel using VBA, Data Validation, and Lookup functions
 
  
-<a href="Link">View project</a>
+<a href="https://nexfordu-my.sharepoint.com/:x:/g/personal/inwankwo_learner_nexford_org/IQAWYubq3xuATZ35Z8M22ieaAUHlU-x7fUElN3ikwiD_r50?e=JCRsgB">View project</a>
 
 >Prototype designed for Rhithm sales computation.
 >Reduces manual impute of data by 80% with data optimised from 3 worksheets.
