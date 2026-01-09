@@ -92,7 +92,7 @@ This portfolio captures various aspects of my work in research, analytics, and b
 
 ### Compliance Analysis 
  
-<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/EWreXSzBGYVPl2Rl4UmAkRABvbE1gcUSybmLEdkSBn1YKw?e=KjYyU5">View project</a>
+<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQBq3l0swRmFT5dkZeFJgJEQATA496C2RKDc-UQwq3PDyV0?e=05nVhw">View project</a>
 
 > Having the demand for compliance with labor law’s equal employment and opportunity practices, this analysis gives a detailed description of the current state of Maka Black Café’s employee demographics, comparing its salary bases with those of its industry.
 
@@ -115,7 +115,7 @@ waterfront availability.
  
 ### Analysis on the Current Trend of Software Technologies
 
-<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/EScWhrjqWnlOpl3YCyKs4HIBtM6uRsccD_xybxzqXLv-rQ">View project</a>
+<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQAnFoa46lp5TqZd2AsirOByAbTOrkbHHA_8cm8c6ly7_q0?e=fDZXmF">View project</a>
 
 >Technological advancement is on an ever-growing high. With new software emerging, one can easily miss out on the current big move in the tech industry.
 
@@ -159,7 +159,7 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
  
 ### External Business Analysis
 
-<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/EcL3k_nGPb5FuuKMbKXiBZsBnCAEagwxnOO5J6_wxHQBAw">View project</a>
+<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQDC95P5xj2-RbrijGyl4gWbAZwgBGoMMZzjuSev8MR0AQM?e=7CeOFr">View project</a>
 
 >Employed business tools like the PESTEL analysis, Porter’s Diamond model, and Porter’s five forces to ascertain the external state, looking into factor conditions outside of Body Shop (UK), France perfume industry, and Financial Education Crew (India), respectively, and understanding how it plays a role in the results amassed in those sectors and countries.
  
@@ -170,7 +170,7 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
  
 ### Internal Business Analysis
  
-<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/ETfAfV3QTOlDl9ykiCd3N18BtpNhVjUsOiyR49W8ZeuRXQ?e=qkGxD2">View project</a>
+<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQA3wH1d0EzpQ5fcpIgndzdfAQHQtf6wqAkkmwOc9h8_9So?e=BtlquQ">View project</a>
 
 >Using common tools in business analysis like SWOT analysis, Porter’s value chain, and the BCG matrix to capture the operations and structure of Financial Education Crew, Medical International, and Dangote Group, respectively. 
  
