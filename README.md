@@ -54,7 +54,7 @@ This portfolio captures various aspects of my work in research, analytics, and b
  
 ### Business and Culture in China
  
-<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/ET2qLTVabBNEuGAfnNA2p38B4gvkgD0HiqUwpaqgQ5RHvw?e=UjvjTB">View project</a>
+<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQA9qi01WmwTRLhgH5zQNqd_AWQEMq8tCp5TYIi_62bDsvU?e=XVcHZ8">View project</a>
 
 >This research provides key insights into the economic, cultural, and regulatory environment of China, equipping businesses with the critical knowledge needed to make informed decisions when planning a new location.
 
@@ -67,7 +67,7 @@ This portfolio captures various aspects of my work in research, analytics, and b
  
 ### DeltaTech Manufacturing’s Production Decision Analysis (Q2 2024) 
  
-<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/Ea_MzY9oLEBBqxksMn90H_YBJDjz4Y6UzaS2hBF0Til9zQ?e=lGEKV5">View project</a>
+<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQCvzM2PaCxAQasZLDJ_dB_2AfRSX48P3TTWP_Jhe3EMQ3Q?e=TDa20u">View project</a>
 
 >In this report, I analyze the financial performance of DeltaTech Manufacturing’s DeltaPro Wireless Headphones for Q2 2024. This review emphasizes four critical financial measures (operating leverage, contribution margin, break-even point, and actual operating profit) to understand how production and sales volume impact profitability.
 
@@ -78,7 +78,7 @@ This portfolio captures various aspects of my work in research, analytics, and b
  
 ### The Effect of Malaria on the Nigerian Economy 
  
-<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/ET5FTUGRy_tCoKJ82nPZE_4BV2jNR_Ymyj9Gk0zRWjheUQ?e=FOGmCc">View project</a>
+<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQA-RU1Bkcv7QqCifNpz2RP-ARL7kBimNNdtqBArNWqAIVA?e=YzNYa1">View project</a>
 
 >A well-detailed research covering information from both scholarly sources and non-scholarly sources on the state of the Nigerian economy with respect to the effect of malaria. It also covers a validity check of the various sources, identifying the emotions and biases of the different publications to access the validity of the information collected.
 
