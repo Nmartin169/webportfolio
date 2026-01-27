@@ -228,7 +228,6 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
  
 <a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQA3wH1d0EzpQ5fcpIgndzdfAQHQtf6wqAkkmwOc9h8_9So?e=BtlquQ">View project</a>
 
- 
 >Goal: Assess internal operations of firms.
 
 >Solution: SWOT, value chain & BCG matrix studies.
