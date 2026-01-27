@@ -58,10 +58,10 @@ This portfolio captures various aspects of my work in research, analytics, and b
 
 >This research provides key insights into the economic, cultural, and regulatory environment of China, equipping businesses with the critical knowledge needed to make informed decisions when planning a new location.
 
-#Goal: Understand business conditions in China.
-#Solution: In-depth research on culture, economy & regulation.
-#Impact: Helps businesses plan expansion & reduce risk.
-#Skills/Tools: Research, analysis, report writing, Word.
+*Goal:* Understand business conditions in China.
+*Solution:* In-depth research on culture, economy & regulation.
+#Impact:# Helps businesses plan expansion & reduce risk.
+>Skills/Tools: Research, analysis, report writing, Word.
 
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/china_research.JPG">
