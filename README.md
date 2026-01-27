@@ -3,6 +3,9 @@
 <a href="https://www.linkedin.com/in/ikenna-m-d-nwankwo-3a2390258">LinkedIn profile</a>
 
 
+GitHub/Codes <a href="https://github.com/Nmartin169/Nportfolio">here</a>.
+
+
 Certifications <a href="https://github.com/Nmartin169/Nportfolio/tree/main/CERTIFICATIONS">here</a>.
  
 ### Work Experience
@@ -205,7 +208,13 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
 
 <a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQDC95P5xj2-RbrijGyl4gWbAZwgBGoMMZzjuSev8MR0AQM?e=7CeOFr">View project</a>
 
->Employed business tools like the PESTEL analysis, Porter’s Diamond model, and Porter’s five forces to ascertain the external state, looking into factor conditions outside of Body Shop (UK), France perfume industry, and Financial Education Crew (India), respectively, and understanding how it plays a role in the results amassed in those sectors and countries.
+>Goal: Evaluate external business environments.
+
+>Solution: Applied PESTEL and Porter frameworks to multiple cases.
+
+>Impact: Strategic insights on market forces.
+
+>Skills/Tools: Business analysis frameworks, report writing.
  
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/img_external.JPG">
@@ -216,9 +225,14 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
  
 <a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQA3wH1d0EzpQ5fcpIgndzdfAQHQtf6wqAkkmwOc9h8_9So?e=BtlquQ">View project</a>
 
->Using common tools in business analysis like SWOT analysis, Porter’s value chain, and the BCG matrix to capture the operations and structure of Financial Education Crew, Medical International, and Dangote Group, respectively. 
  
->The analysis covers areas in the aforementioned organisations, detailing key strategic and organisational placement of the businesses and their various goods or services.
+>Goal: Assess internal operations of firms.
+
+>Solution: SWOT, value chain & BCG matrix studies.
+
+>Impact: Better understanding of organizational strategy and strength.
+
+>Skills/Tools: Strategic analysis, frameworks, documentation.
 
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/Img_internal.JPG">
