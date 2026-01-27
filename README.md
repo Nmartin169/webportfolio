@@ -58,7 +58,10 @@ This portfolio captures various aspects of my work in research, analytics, and b
 
 >This research provides key insights into the economic, cultural, and regulatory environment of China, equipping businesses with the critical knowledge needed to make informed decisions when planning a new location.
 
->By highlighting market opportunities, operational challenges, and strategic considerations unique to the region, the findings serve as a practical guide for reducing risk, maximizing growth potential, and ensuring long-term success in one of the world’s most dynamic markets.
+#Goal: Understand business conditions in China.
+#Solution: In-depth research on culture, economy & regulation.
+#Impact: Helps businesses plan expansion & reduce risk.
+#Skills/Tools: Research, analysis, report writing, Word.
 
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/china_research.JPG">
@@ -69,7 +72,12 @@ This portfolio captures various aspects of my work in research, analytics, and b
  
 <a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQCvzM2PaCxAQasZLDJ_dB_2AfRSX48P3TTWP_Jhe3EMQ3Q?e=TDa20u">View project</a>
 
->In this report, I analyze the financial performance of DeltaTech Manufacturing’s DeltaPro Wireless Headphones for Q2 2024. This review emphasizes four critical financial measures (operating leverage, contribution margin, break-even point, and actual operating profit) to understand how production and sales volume impact profitability.
+>This review emphasizes four critical financial measures (operating leverage, contribution margin, break-even point, and actual operating profit) to understand how production and sales volume impact profitability.
+
+>Goal: Evaluate profitability of DeltaPro Wireless Headphones.
+Solution: Financial analysis using key cost metrics.
+Impact: Informed pricing and production decisions.
+Skills/Tools: Financial analysis, Excel, business modelling.
 
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/DeltaTech.jpeg">
