@@ -3,10 +3,11 @@
 <a href="https://www.linkedin.com/in/ikenna-m-d-nwankwo-3a2390258">LinkedIn profile</a>
 
 
-<a href="https://github.com/Nmartin169/Nportfolio">GitHub/Codes</a>.
+<a href="https://github.com/Nmartin169/Nportfolio">GitHub/Codes</a>
 
 
-<a href="https://github.com/Nmartin169/Nportfolio/tree/main/CERTIFICATIONS">Certifications</a>.
+<a href="https://github.com/Nmartin169/Nportfolio/tree/main/CERTIFICATIONS">Certifications</a>
+
 
  
 ### Work Experience
