@@ -56,7 +56,6 @@ This portfolio captures various aspects of my work in research, analytics, and b
  
 <a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQA9qi01WmwTRLhgH5zQNqd_AWQEMq8tCp5TYIi_62bDsvU?e=XVcHZ8">View project</a>
 
->This research provides key insights into the economic, cultural, and regulatory environment of China, equipping businesses with the critical knowledge needed to make informed decisions when planning a new location.
 
 >Goal: Understand business conditions in China.
 
@@ -75,12 +74,14 @@ This portfolio captures various aspects of my work in research, analytics, and b
  
 <a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQCvzM2PaCxAQasZLDJ_dB_2AfRSX48P3TTWP_Jhe3EMQ3Q?e=TDa20u">View project</a>
 
->This review emphasizes four critical financial measures (operating leverage, contribution margin, break-even point, and actual operating profit) to understand how production and sales volume impact profitability.
 
 >Goal: Evaluate profitability of DeltaPro Wireless Headphones.
-Solution: Financial analysis using key cost metrics.
-Impact: Informed pricing and production decisions.
-Skills/Tools: Financial analysis, Excel, business modelling.
+
+>Solution: Financial analysis using key cost metrics.
+
+>Impact: Informed pricing and production decisions.
+
+>Skills/Tools: Financial analysis, Excel, business modelling.
 
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/DeltaTech.jpeg">
@@ -91,7 +92,13 @@ Skills/Tools: Financial analysis, Excel, business modelling.
  
 <a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQA-RU1Bkcv7QqCifNpz2RP-ARL7kBimNNdtqBArNWqAIVA?e=YzNYa1">View project</a>
 
->A well-detailed research covering information from both scholarly sources and non-scholarly sources on the state of the Nigerian economy with respect to the effect of malaria. It also covers a validity check of the various sources, identifying the emotions and biases of the different publications to access the validity of the information collected.
+>Goal: Assess malaria’s economic effect.
+
+>Solution: Synthesized academic and non-academic sources.
+
+>Impact: Evidence for policy and economic planning.
+
+>Skills/Tools: Research, critical evaluation, reporting.
 
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/malaria_ng.JPG">
@@ -105,7 +112,13 @@ Skills/Tools: Financial analysis, Excel, business modelling.
  
 <a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQBq3l0swRmFT5dkZeFJgJEQATA496C2RKDc-UQwq3PDyV0?e=05nVhw">View project</a>
 
-> Having the demand for compliance with labor law’s equal employment and opportunity practices, this analysis gives a detailed description of the current state of Maka Black Café’s employee demographics, comparing its salary bases with those of its industry.
+>Goal: Review Maka Black Café’s workplace equality.
+
+>Solution: Demographic and salary comparison with industry benchmarks.
+
+>Impact: Highlights compliance gaps and recommendations.
+
+>Skills/Tools: Power Bi, Excel, legal standards, Statistics
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/img_compliance.PNG">
 
@@ -116,8 +129,13 @@ Skills/Tools: Financial analysis, Excel, business modelling.
  
 <a href="https://github.com/Nmartin169/Nportfolio/blob/main/DATA%20MINING/PREDICTIVE_ANALYSIS_ON_HOUSING_USING_MACHINE_LEARNING.ipynb">View project</a>
 
->Predicted the price of housing in King County (USA) using features like the square- foot of its living room, number of floors, and
-waterfront availability.
+>Goal: Predict house prices in King County (USA).
+
+>Solution: Machine learning regression models.
+
+>Impact: Helps in pricing decisions and market prediction.
+
+>Skills/Tools: Python, ML, sklearn, pandas.
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/housing_prediction.JPG">
 
@@ -128,9 +146,14 @@ waterfront availability.
 
 <a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQAnFoa46lp5TqZd2AsirOByAbTOrkbHHA_8cm8c6ly7_q0?e=fDZXmF">View project</a>
 
->Technological advancement is on an ever-growing high. With new software emerging, one can easily miss out on the current big move in the tech industry.
 
->This report gives perspective on what software and technologies are currently in high demand and which one of them is expected to be in the coming years.
+>Goal: Track evolving software technologies.
+
+>Solution: Trend research and comparative review.
+
+>Impact: Useful for upskilling and tech strategy.
+
+>Skills/Tools: SQL, Jupyter notebook, Python, Cognos Analytics, plotly, and Pandas.
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/technologies_trend.JPG">
 
@@ -141,7 +164,13 @@ waterfront availability.
  
 <a href="https://github.com/Nmartin169/Nportfolio/tree/main/Dash%20App%20Development%20for%20US%20Domestic%20Airline%20Flight%20Performance">View project</a>
 
->Integrated the Dash API, developed the web application using HTML framework, connected the data source, created an interactive dashboard to display flight performance of real life data.
+>Goal: Visualize U.S. airline performance data.
+
+>Solution: Built interactive dashboard with Dash.
+
+>Impact: Easy insight into delays & trends.
+
+>Skills/Tools: Python, Dash, data visualization.
 
 
 
@@ -151,9 +180,13 @@ waterfront availability.
  
 <a href="https://nexfordu-my.sharepoint.com/:x:/g/personal/inwankwo_learner_nexford_org/IQAWYubq3xuATZ35Z8M22ieaAUHlU-x7fUElN3ikwiD_r50?e=JCRsgB">View project</a>
 
->Prototype designed for Rhithm sales computation.
->Reduces manual impute of data by 80% with data optimised from 3 worksheets.
->Reduced computational error by as much as 70%
+>Goal: Reduce manual sales computation errors.
+
+>Solution: Automated data entry using Excel & VBA.
+
+>Impact: Cut manual work by ~80% and errors by ~70%.
+
+>Skills/Tools: Excel, VBA, automation.
 
 
 <iframe width="315" height="315"
