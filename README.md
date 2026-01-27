@@ -3,11 +3,12 @@
 <a href="https://www.linkedin.com/in/ikenna-m-d-nwankwo-3a2390258">LinkedIn profile</a>
 
 
-GitHub/Codes <a href="https://github.com/Nmartin169/Nportfolio">here</a>.
+<a href="https://github.com/Nmartin169/Nportfolio">GitHub/Codes</a>.
 
 
-Certifications <a href="https://github.com/Nmartin169/Nportfolio/tree/main/CERTIFICATIONS">here</a>.
- 
+<a href="https://github.com/Nmartin169/Nportfolio/tree/main/CERTIFICATIONS">Certifications</a>.
+
+ 
 ### Work Experience
 
 Independent Consultant — Business Analyst.  (2025)
