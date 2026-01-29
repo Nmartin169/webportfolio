@@ -239,7 +239,7 @@ IBM Data Analyst Professional Certificate | Coursera 
 
 
 
-#
+
 
 Using a combination of management, business intelligence, research, data analysis, and problem-solving skills, I am able to not only capture business performances and progress but also predict, recommend, and facilitate future business decisions.
 
