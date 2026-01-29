@@ -9,51 +9,6 @@
 <a href="https://github.com/Nmartin169/Nportfolio/tree/main/CERTIFICATIONS">Certifications</a>
 
 
-
- 
-### Work Experience
-
-Independent Consultant — Business Analyst.  (2025)
-
-* Rithim bakery: Increased overall team productivity by 40% through workflow automation. Also reduced manual sales computation by over 70%, improving data accuracy and turnaround time. and training.
-* Exoda (Fashion-Tech): Achieved break-even in the first month through targeted analytics and marketing insights for the AI-powered fashion business course launch.
- 
-Data Analyst @ Moobiq World (2024)
- 
-* I made a 30% increase in student conversion rate.
-* Maintained a steady and consistent course flow through a 3-course program, which I facilitated.
-* Had 80% success rate on student communication program for dashboard presentation.
-
- 
- 
-Business Analyst Trainee @ Brainnest (2023)
-
-- Successfully conducted competitive analysis on the French cosmetic industry, utilising the Porter’s diamond model. 
-- Mapped out, with a group of five, the external environment of the UK's bodyshop company.
-- Designed Dangote’s BCG matrix using reports from the 2018/2019 compilation.
-
- 
- 
-### Education
-
-BBA,Business Administration, Specialisation in Business Analysis | Nextford University, Washington DC
-
-IBM Data Science Professional Certificate | Coursera
-
-IBM Data Analyst Professional Certificate | Coursera 
-
-
-
-
-
-
-
-Using a combination of management, business intelligence, research, data analysis, and problem-solving skills, I am able to not only capture business performances and progress but also predict, recommend, and facilitate future business decisions.
-
-
-
-This portfolio captures various aspects of my work in research, analytics, and business.
-
  
  
 ## RESEARCH PROJECT
@@ -242,5 +197,51 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
 
 
  
+
+### Work Experience
+
+Independent Consultant — Business Analyst.  (2025)
+
+* Rithim bakery: Increased overall team productivity by 40% through workflow automation. Also reduced manual sales computation by over 70%, improving data accuracy and turnaround time. and training.
+* Exoda (Fashion-Tech): Achieved break-even in the first month through targeted analytics and marketing insights for the AI-powered fashion business course launch.
+ 
+Data Analyst @ Moobiq World (2024)
+ 
+* I made a 30% increase in student conversion rate.
+* Maintained a steady and consistent course flow through a 3-course program, which I facilitated.
+* Had 80% success rate on student communication program for dashboard presentation.
+
+ 
+ 
+Business Analyst Trainee @ Brainnest (2023)
+
+- Successfully conducted competitive analysis on the French cosmetic industry, utilising the Porter’s diamond model. 
+- Mapped out, with a group of five, the external environment of the UK's bodyshop company.
+- Designed Dangote’s BCG matrix using reports from the 2018/2019 compilation.
+
+ 
+ 
+### Education
+
+BBA,Business Administration, Specialisation in Business Analysis | Nextford University, Washington DC
+
+IBM Data Science Professional Certificate | Coursera
+
+IBM Data Analyst Professional Certificate | Coursera 
+
+
+
+
+
+
+
+Using a combination of management, business intelligence, research, data analysis, and problem-solving skills, I am able to not only capture business performances and progress but also predict, recommend, and facilitate future business decisions.
+
+
+
+This portfolio captures various aspects of my work in research, analytics, and business.
+
+
+
 
 Find more projects, codes, and general information, including certifications and documentation, <a href="https://github.com/Nmartin169/Nportfolio">here</a>.
