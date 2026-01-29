@@ -198,8 +198,8 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
 
  
 
-### Work Experience
-
+## WORK EXPERIENCE
+ 
 Independent Consultant — Business Analyst.  (2025)
 
 * Rithim bakery: Increased overall team productivity by 40% through workflow automation. Also reduced manual sales computation by over 70%, improving data accuracy and turnaround time. and training.
@@ -221,7 +221,8 @@ Business Analyst Trainee @ Brainnest (2023)
 
  
  
-### Education
+## EDUCATION
+ 
 
 BBA,Business Administration, Specialisation in Business Analysis | Nextford University, Washington DC
 
