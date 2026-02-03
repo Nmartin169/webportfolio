@@ -6,94 +6,81 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    
+
     <style>
-      /* 1. Define Color Variables */
       :root {
-        /* Light Mode Defaults */
         --bg-color: #ffffff;
         --text-color: #333333;
         --link-color: #007bff;
         --code-bg: #f5f5f5;
         --blockquote-color: #828282;
         --blockquote-border: #e8e8e8;
-        --btn-bg: #e1e1e1;
-        --btn-text: #333;
         --heading-color: #333;
       }
 
       [data-theme="dark"] {
-        /* Dark Mode Colors based on provided image */
-        --bg-color: #0d1117;       /* Deep dark blue-gray background */
-        --text-color: #c9d1d9;     /* Light gray text */
-        --link-color: #58a6ff;     /* Bright blue link color */
-        --code-bg: #161b22;        /* Slightly lighter background for code/pre */
-        --blockquote-color: #8b949e; /* Muted gray text for quotes */
-        --blockquote-border: #30363d; /* Dark gray vertical border for quotes */
-        
-        /* Button styling in dark mode */
-        --btn-bg: #21262d;
-        --btn-text: #c9d1d9;
+        --bg-color: #0d1117;
+        --text-color: #c9d1d9;
+        --link-color: #58a6ff;
+        --code-bg: #161b22;
+        --blockquote-color: #8b949e;
+        --blockquote-border: #30363d;
         --heading-color: #ffffff;
       }
 
-      /* 2. Apply Variables to Elements */
       body {
         background-color: var(--bg-color);
         color: var(--text-color);
         transition: background-color 0.3s, color 0.3s;
       }
 
-      /* Ensure headings adapt */
       h1, h2, h3, h4, h5, h6 {
         color: var(--heading-color);
       }
-      
-      /* Force header links (like the site title) to adapt */
+
       header h1 a {
-         color: var(--heading-color) !important;
+        color: var(--heading-color);
       }
 
       a { color: var(--link-color); }
-      
-      /* Match the blockquote style from the image */
+
       blockquote {
         color: var(--blockquote-color);
         border-left: 4px solid var(--blockquote-border);
       }
-      
+
       code, pre {
         background-color: var(--code-bg);
       }
 
-      /* 3. Toggle Button Styling and Placement */
+      /* ICON-ONLY THEME TOGGLE */
       .theme-toggle-btn {
         position: absolute;
-        /* Positioned top right, above the logo area */
         top: 20px;
         right: 20px;
-        padding: 8px 12px;
-        background-color: var(--btn-bg);
-        color: var(--btn-text);
-        border: 1px solid var(--blockquote-border);
-        border-radius: 6px;
+        background: transparent;
+        border: none;
+        padding: 0;
+        font-size: 20px;
         cursor: pointer;
-        font-family: sans-serif;
-        font-size: 14px;
-        z-index: 1000; /* Ensure it sits on top */
-      }
-      
-      .theme-toggle-btn:hover {
-        border-color: var(--text-color);
-      }
-      
-      /* Keep logo reduced radius */
-      .logo-img {
-          border-radius: 50%;
-          /* max-width constraint removed per request for original size */
+        color: var(--heading-color);
+        z-index: 1000;
       }
 
-      /* Mobile adjustment for button positioning */
+      .theme-toggle-btn:hover {
+        opacity: 0.8;
+      }
+
+      /* Restore original spacing */
+      header img.logo-img {
+        border-radius: 50%;
+        margin-bottom: 12px;
+      }
+
+      header h1 {
+        margin-top: 0;
+      }
+
       @media (max-width: 768px) {
         .theme-toggle-btn {
           top: 10px;
@@ -102,9 +89,9 @@
       }
     </style>
   </head>
-  
+
   <body>
-    <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle Dark Mode">🌙</button>
+    <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle theme">🌙</button>
 
     <div class="wrapper">
       <header>
@@ -114,60 +101,50 @@
           </a>
         {% endif %}
 
-        <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1>
+          <a href="{{ "/" | relative_url }}">
+            {{ site.title | default: site.github.repository_name }}
+          </a>
+        </h1>
 
         {% if site.description %}
           <p>{{ site.description }}</p>
         {% endif %}
-
-        {% if site.show_downloads %}
-          <ul>
-            <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-            <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-            <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-          </ul>
-        {% endif %}
       </header>
-      
+
       <section>
         {{ content }}
       </section>
-      
+
       <footer>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+          <p>This project is maintained by
+            <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
+          </p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p>
+          <small>
+            Hosted on GitHub Pages — Theme by
+            <a href="https://github.com/orderedlist">orderedlist</a>
+          </small>
+        </p>
       </footer>
     </div>
-    
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 
     <script>
       const toggleBtn = document.getElementById('theme-toggle');
-      // Check local storage or system preference on load
-      const currentTheme = localStorage.getItem('theme');
+      const savedTheme = localStorage.getItem('theme');
 
-      if (currentTheme) {
-        document.documentElement.setAttribute('data-theme', currentTheme);
-        if (currentTheme === 'dark') {
-          toggleBtn.innerHTML = '☀️';
-        }
+      if (savedTheme) {
+        document.documentElement.setAttribute('data-theme', savedTheme);
+        toggleBtn.textContent = savedTheme === 'dark' ? '☀️' : '🌙';
       }
 
-      // Toggle functionality
-      toggleBtn.addEventListener('click', function() {
-        let theme = document.documentElement.getAttribute('data-theme');
-        
-        if (theme === 'dark') {
-          document.documentElement.setAttribute('data-theme', 'light');
-          localStorage.setItem('theme', 'light');
-          toggleBtn.innerHTML = '🌙';
-        } else {
-          document.documentElement.setAttribute('data-theme', 'dark');
-          localStorage.setItem('theme', 'dark');
-          toggleBtn.innerHTML = '☀️';
-        }
+      toggleBtn.addEventListener('click', () => {
+        const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+        document.documentElement.setAttribute('data-theme', isDark ? 'light' : 'dark');
+        localStorage.setItem('theme', isDark ? 'light' : 'dark');
+        toggleBtn.textContent = isDark ? '🌙' : '☀️';
       });
     </script>
   </body>
