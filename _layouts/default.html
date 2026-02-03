@@ -104,7 +104,7 @@
   </head>
   
   <body>
-    <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle Dark Mode">🌙 Dark Theme</button>
+    <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle Dark Mode">🌙</button>
 
     <div class="wrapper">
       <header>
@@ -151,7 +151,7 @@
       if (currentTheme) {
         document.documentElement.setAttribute('data-theme', currentTheme);
         if (currentTheme === 'dark') {
-          toggleBtn.innerHTML = '☀️ Light Theme';
+          toggleBtn.innerHTML = '☀️';
         }
       }
 
@@ -162,11 +162,11 @@
         if (theme === 'dark') {
           document.documentElement.setAttribute('data-theme', 'light');
           localStorage.setItem('theme', 'light');
-          toggleBtn.innerHTML = '🌙 Dark Theme';
+          toggleBtn.innerHTML = '🌙';
         } else {
           document.documentElement.setAttribute('data-theme', 'dark');
           localStorage.setItem('theme', 'dark');
-          toggleBtn.innerHTML = '☀️ Light Theme';
+          toggleBtn.innerHTML = '☀️';
         }
       });
     </script>
