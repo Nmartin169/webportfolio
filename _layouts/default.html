@@ -149,7 +149,13 @@
 
     <script>
       const toggleBtn = document.getElementById('theme-toggle');
-      const TRANSITION_TIME = 500; // ms
+      const savedTheme = localStorage.getItem('theme');
+      const TRANSITION_TIME = 450; // ms
+
+      if (savedTheme) {
+        document.documentElement.setAttribute('data-theme', savedTheme);
+        toggleBtn.textContent = savedTheme === 'dark' ? '☀️' : '🌙';
+      }
 
       toggleBtn.addEventListener('click', () => {
         toggleBtn.classList.add('is-animating', 'is-transitioning');
