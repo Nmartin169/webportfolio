@@ -66,20 +66,26 @@
         color: var(--heading-color);
         z-index: 1000;
 
+        opacity: 1;
+        
         transition: 
-          transform 2.53s ease,
+          transform 0.93s ease,
           opacity 0.83s ease,
           color 0.83s ease;
       }
 
       .theme-toggle-btn:hover {
-        opacity: 1.0;
+        opacity: 0.8;
       }
 
       .theme-toggle-btn.is-animating {
-        transform: rotate(360deg) scale(1.1);
+        transform: rotate(360deg) scale(0.8);
       }
-
+      
+      .theme-toggle-btn.is-transitioning {
+        opacity: 0.5;
+        pointer-events: none; /* prevent double clicks */
+      }
 
       /* Restore original spacing */
       header img.logo-img {
@@ -143,18 +149,21 @@
 
     <script>
       const toggleBtn = document.getElementById('theme-toggle');
+      const TRANSITION_TIME = 930; // ms
 
       toggleBtn.addEventListener('click', () => {
-        toggleBtn.classList.add('is-animating');
-
-        setTimeout(() => {
-          toggleBtn.classList.remove('is-animating');
-        }, 300);
+        toggleBtn.classList.add('is-animating', 'is-transitioning');
 
         const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
         document.documentElement.setAttribute('data-theme', isDark ? 'light' : 'dark');
         localStorage.setItem('theme', isDark ? 'light' : 'dark');
         toggleBtn.textContent = isDark ? '🌙' : '☀️';
+
+        setTimeout(() => {
+          toggleBtn.classList.remove('is-animating', 'is-transitioning');
+        }, TRANSITION_TIME);
+
+        
       });
     </script>
   </body>
