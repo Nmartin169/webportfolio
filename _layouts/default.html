@@ -79,11 +79,11 @@
       }
 
       .theme-toggle-btn.is-animating {
-        transform: rotate(360deg) scale(0.8);
+        transform: rotate(180deg) scale(0.8);
       }
       
       .theme-toggle-btn.is-transitioning {
-        opacity: 0.5;
+        opacity: 0.8;
         pointer-events: none; /* prevent double clicks */
       }
 
@@ -149,7 +149,7 @@
 
     <script>
       const toggleBtn = document.getElementById('theme-toggle');
-      const TRANSITION_TIME = 830; // ms
+      const TRANSITION_TIME = 500; // ms
 
       toggleBtn.addEventListener('click', () => {
         toggleBtn.classList.add('is-animating', 'is-transitioning');
