@@ -143,14 +143,14 @@
 
     <script>
       const toggleBtn = document.getElementById('theme-toggle');
-      const savedTheme = localStorage.getItem('theme');
-
-      if (savedTheme) {
-        document.documentElement.setAttribute('data-theme', savedTheme);
-        toggleBtn.textContent = savedTheme === 'dark' ? '☀️' : '🌙';
-      }
 
       toggleBtn.addEventListener('click', () => {
+        toggleBtn.classList.add('is-animating');
+
+        setTimeout(() => {
+          toggleBtn.classList.remove('is-animating');
+        }, 300);
+
         const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
         document.documentElement.setAttribute('data-theme', isDark ? 'light' : 'dark');
         localStorage.setItem('theme', isDark ? 'light' : 'dark');
