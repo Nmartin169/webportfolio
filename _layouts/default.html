@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}" data-theme="dark">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -155,6 +155,10 @@
       if (savedTheme) {
         document.documentElement.setAttribute('data-theme', savedTheme);
         toggleBtn.textContent = savedTheme === 'dark' ? '☀️' : '🌙';
+      } else {
+        // first-time visitor → dark
+        document.documentElement.setAttribute('data-theme', 'dark');
+        toggleBtn.textContent = '☀️';
       }
 
       toggleBtn.addEventListener('click', () => {
