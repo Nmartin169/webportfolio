@@ -163,31 +163,40 @@
 
     <script>
       const toggleBtn = document.getElementById('theme-toggle');
-      const savedTheme = localStorage.getItem('theme');
       const TRANSITION_TIME = 450; // ms
+      const savedTheme = localStorage.getItem('theme');
 
-      if (savedTheme) {
-        document.documentElement.setAttribute('data-theme', savedTheme);
-        toggleBtn.textContent = savedTheme === 'dark' ? '☀️' : '🌙';
-      } else {
-        // first-time visitor → dark
+      // Initial load
+      if (savedTheme === 'dark') {
         document.documentElement.setAttribute('data-theme', 'dark');
         toggleBtn.textContent = '☀️';
+      } else {
+        // light = default (:root)
+        document.documentElement.removeAttribute('data-theme');
+        toggleBtn.textContent = '🌙';
       }
 
       toggleBtn.addEventListener('click', () => {
         toggleBtn.classList.add('is-animating', 'is-transitioning');
 
-        const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
-        document.documentElement.setAttribute('data-theme', isDark ? 'light' : 'dark');
-        localStorage.setItem('theme', isDark ? 'light' : 'dark');
-        toggleBtn.textContent = isDark ? '🌙' : '☀️';
+        const isDark =
+          document.documentElement.getAttribute('data-theme') === 'dark';
+
+        if (isDark) {
+          // Switch to light (remove attribute)
+          document.documentElement.removeAttribute('data-theme');
+          localStorage.setItem('theme', 'light');
+          toggleBtn.textContent = '🌙';
+        } else {
+          // Switch to dark
+          document.documentElement.setAttribute('data-theme', 'dark');
+          localStorage.setItem('theme', 'dark');
+          toggleBtn.textContent = '☀️';
+        }
 
         setTimeout(() => {
           toggleBtn.classList.remove('is-animating', 'is-transitioning');
         }, TRANSITION_TIME);
-
-        
       });
     </script>
   </body>
