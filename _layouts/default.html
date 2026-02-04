@@ -167,11 +167,10 @@
       const savedTheme = localStorage.getItem('theme');
 
       // Initial load
-      if (savedTheme === 'dark') {
+      if (!savedTheme || savedTheme === 'dark') {
         document.documentElement.setAttribute('data-theme', 'dark');
         toggleBtn.textContent = '☀️';
       } else {
-        // light = default (:root)
         document.documentElement.removeAttribute('data-theme');
         toggleBtn.textContent = '🌙';
       }
