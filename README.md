@@ -133,6 +133,8 @@
 
 >Skills/Tools: Python, Dash, HTML, Plotly Express, EDA.
 
+<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/dash_app.PNG">
+
 
 
  
