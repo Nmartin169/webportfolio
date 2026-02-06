@@ -114,7 +114,7 @@
 
 >Impact: Useful for upskilling and tech strategy.
 
->Skills/Tools: SQL, Jupyter notebook, Python, Cognos Analytics, plotly, and Pandas.
+>Skills/Tools: SQL, Jupyter notebook, Python, Cognos Analytics, Plotly, and Pandas.
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/technologies_trend.JPG">
 
@@ -131,7 +131,7 @@
 
 >Impact: Easy insight into delays & trends.
 
->Skills/Tools: Python, Dash, data visualization.
+>Skills/Tools: Python, Dash, HTML, Plotly Express, EDA.
 
 
 
