@@ -1,6 +1,7 @@
 # Business Consulting
 >Portfolio showcasing Data Analytics, Research, and Business Strategy Projects.
 
+
 <a href="https://www.linkedin.com/in/ikenna-m-d-nwankwo-3a2390258">LinkedIn profile</a>
 
 
