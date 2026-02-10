@@ -4,7 +4,7 @@
 <a href="https://github.com/Nmartin169/Nportfolio/tree/main/CERTIFICATIONS">Certifications</a>
 
 
-<a href="https://github.com/Nmartin169/Nportfolio"> <img src="assets/github_light.PNG" style="max-width:6.25%; height:auto;"> </a>  <a href="https://github.com/Nmartin169/Nportfolio"> <img src="assets/github_light.PNG" style="max-width:6.25%; height:auto;"> </a> <a href="https://github.com/Nmartin169/Nportfolio"> <img src="assets/github_light.PNG" style="max-width:6.25%; height:auto;"> </a> <a href="https://github.com/Nmartin169/Nportfolio"> <img src="assets/github_light.PNG" style="max-width:6.25%; height:auto;"> </a> 
+<a href="https://github.com/Nmartin169/Nportfolio"> <img src="assets/github_light.PNG" style="max-width:9.5%; height:auto;"> </a>    <a href="https://github.com/Nmartin169/Nportfolio"> <img src="assets/github_light.PNG" style="max-width:9.5%; height:auto;"> </a>    <a href="https://github.com/Nmartin169/Nportfolio"> <img src="assets/github_light.PNG" style="max-width:9.5%; height:auto;"> </a>    <a href="https://github.com/Nmartin169/Nportfolio"> <img src="assets/github_light.PNG" style="max-width:9.5%; height:auto;"> </a> 
 
 
  
