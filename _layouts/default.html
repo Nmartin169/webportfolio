@@ -58,18 +58,15 @@
 
       code, pre { background-color: var(--code-bg); }
 
-      /* Header layout */
-      .header-top {
-        display: flex;
-        justify-content: flex-end;
-        margin-bottom: 10px;
-      }
-
       .theme-toggle-btn {
+        position: absolute;
+        top: 20px;
+        right: 20px;
         background: transparent;
         border: none;
         padding: 0;
         cursor: pointer;
+        z-index: 1000;
         opacity: 1;
         transition: transform 0.43s ease, opacity 0.33s ease;
       }
@@ -97,19 +94,29 @@
       }
 
       header h1 { margin-top: 0; }
+
+      @media (max-width: 768px) {
+        .theme-toggle-btn {
+          top: 10px;
+          right: 10px;
+        }
+      }
+
+      .light-img { display: inline; }
+      .dark-img { display: none; }
+
+      [data-theme="dark"] .light-img { display: none; }
+      [data-theme="dark"] .dark-img { display: inline; }
     </style>
   </head>
 
   <body>
+    <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle theme">
+      <img id="theme-icon" src="{{ '/assets/light_moon.png' | relative_url }}" alt="Toggle theme">
+    </button>
+
     <div class="wrapper">
       <header>
-
-        <div class="header-top">
-          <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle theme">
-            <img id="theme-icon" src="{{ '/assets/light_moon.png' | relative_url }}" alt="Toggle theme">
-          </button>
-        </div>
-
         {% if site.logo %}
           <a href="{{ "/" | relative_url }}" class="anchor">
             <img src="{{ site.logo | relative_url }}" alt="Logo" class="logo-img">
