@@ -13,7 +13,6 @@
 ## RESEARCH PROJECT
  
 ### Business and Culture in China    <a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQA9qi01WmwTRLhgH5zQNqd_AWQEMq8tCp5TYIi_62bDsvU?e=XVcHZ8" class="theme-img"> <img src="assets/link_light.png" style="max-width:9.5%; float:right; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:9.5%; float:right; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
-<br>
 
 
 >Goal: Understand business conditions in China.
@@ -29,9 +28,7 @@
 
 
  
-### DeltaTech Manufacturing’s Production Decision Analysis (Q2 2024) 
- 
-<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQCvzM2PaCxAQasZLDJ_dB_2AfRSX48P3TTWP_Jhe3EMQ3Q?e=TDa20u">View project</a>
+### DeltaTech Manufacturing’s Production Decision Analysis (Q2 2024)    <a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQCvzM2PaCxAQasZLDJ_dB_2AfRSX48P3TTWP_Jhe3EMQ3Q?e=TDa20u" class="theme-img"> <img src="assets/link_light.png" style="max-width:9.5%; float:right; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:9.5%; float:right; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
 
 
 >Goal: Evaluate profitability of DeltaPro Wireless Headphones.
@@ -47,9 +44,8 @@
 
 
  
-### The Effect of Malaria on the Nigerian Economy 
+### The Effect of Malaria on the Nigerian Economy   <a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQA-RU1Bkcv7QqCifNpz2RP-ARL7kBimNNdtqBArNWqAIVA?e=YzNYa1" class="theme-img"> <img src="assets/link_light.png" style="max-width:9.5%; float:right; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:9.5%; float:right; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
  
-<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQA-RU1Bkcv7QqCifNpz2RP-ARL7kBimNNdtqBArNWqAIVA?e=YzNYa1">View project</a>
 
 >Goal: Assess malaria’s economic effect.
 
@@ -67,9 +63,8 @@
 ## DATA PROJECT
  
 
-### Compliance Analysis 
+### Compliance Analysis    <a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQBq3l0swRmFT5dkZeFJgJEQATA496C2RKDc-UQwq3PDyV0?e=05nVhw" class="theme-img"> <img src="assets/link_light.png" style="max-width:9.5%; float:right; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:9.5%; float:right; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
  
-<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQBq3l0swRmFT5dkZeFJgJEQATA496C2RKDc-UQwq3PDyV0?e=05nVhw">View project</a>
 
 >Goal: Review Maka Black Café’s workplace equality.
 
@@ -84,9 +79,8 @@
 
 
  
-### Predictive Analysis of Housing Using Machine Learning
+### Predictive Analysis of Housing Using Machine Learning     <a href="https://github.com/Nmartin169/Nportfolio/blob/main/DATA%20MINING/PREDICTIVE_ANALYSIS_ON_HOUSING_USING_MACHINE_LEARNING.ipynb" class="theme-img"> <img src="assets/link_light.png" style="max-width:9.5%; float:right; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:9.5%; float:right; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
  
-<a href="https://github.com/Nmartin169/Nportfolio/blob/main/DATA%20MINING/PREDICTIVE_ANALYSIS_ON_HOUSING_USING_MACHINE_LEARNING.ipynb">View project</a>
 
 >Goal: Predict house prices in King County (USA).
 
@@ -101,9 +95,7 @@
 
 
  
-### Analysis on the Current Trend of Software Technologies
-
-<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQAnFoa46lp5TqZd2AsirOByAbTOrkbHHA_8cm8c6ly7_q0?e=fDZXmF">View project</a>
+### Analysis on the Current Trend of Software Technologies    <a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQAnFoa46lp5TqZd2AsirOByAbTOrkbHHA_8cm8c6ly7_q0?e=fDZXmF" class="theme-img"> <img src="assets/link_light.png" style="max-width:9.5%; float:right; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:9.5%; float:right; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 
 
 >Goal: Track evolving software technologies.
@@ -119,9 +111,8 @@
 
 
  
-### Dash App Development for US Domestic Airline Flight Performance
+### Dash App Development for US Domestic Airline Flight Performance   <a href="https://github.com/Nmartin169/Nportfolio/tree/main/Dash%20App%20Development%20for%20US%20Domestic%20Airline%20Flight%20Performance" class="theme-img"> <img src="assets/link_light.png" style="max-width:9.5%; float:right; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:9.5%; float:right; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
  
-<a href="https://github.com/Nmartin169/Nportfolio/tree/main/Dash%20App%20Development%20for%20US%20Domestic%20Airline%20Flight%20Performance">View project</a>
 
 >Goal: Visualize U.S. airline performance data.
 
@@ -136,11 +127,9 @@
 
 
  
-### Data Entry Automation on Excel using VBA, Data Validation, and Lookup functions
+### Data Entry Automation on Excel using VBA, Data Validation, and Lookup functions    <a href="https://nexfordu-my.sharepoint.com/:x:/g/personal/inwankwo_learner_nexford_org/IQAWYubq3xuATZ35Z8M22ieaAUHlU-x7fUElN3ikwiD_r50?e=JCRsgB" class="theme-img"> <img src="assets/link_light.png" style="max-width:9.5%; float:right; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:9.5%; float:right; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 
  
-<a href="https://nexfordu-my.sharepoint.com/:x:/g/personal/inwankwo_learner_nexford_org/IQAWYubq3xuATZ35Z8M22ieaAUHlU-x7fUElN3ikwiD_r50?e=JCRsgB">View project</a>
-
 >Goal: Reduce manual sales computation errors.
 
 >Solution: Automated data entry using Excel & VBA.
@@ -162,9 +151,8 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
  
 ## BUSINESS PROJECT
  
-### External Business Analysis
+### External Business Analysis    <a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQDC95P5xj2-RbrijGyl4gWbAZwgBGoMMZzjuSev8MR0AQM?e=7CeOFr" class="theme-img"> <img src="assets/link_light.png" style="max-width:9.5%; float:right; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:9.5%; float:right; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 
-<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQDC95P5xj2-RbrijGyl4gWbAZwgBGoMMZzjuSev8MR0AQM?e=7CeOFr">View project</a>
 
 >Goal: Evaluate external business environments.
 
@@ -179,9 +167,8 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
 
 
  
-### Internal Business Analysis
- 
-<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQA3wH1d0EzpQ5fcpIgndzdfAQHQtf6wqAkkmwOc9h8_9So?e=BtlquQ">View project</a>
+### Internal Business Analysis    <a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQA3wH1d0EzpQ5fcpIgndzdfAQHQtf6wqAkkmwOc9h8_9So?e=BtlquQ" class="theme-img"> <img src="assets/link_light.png" style="max-width:9.5%; float:right; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:9.5%; float:right; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+
 
 >Goal: Assess internal operations of firms.
 
@@ -251,4 +238,6 @@ This portfolio captures various aspects of my work in research, analytics, and b
 
 
 
-Find more projects, codes, and general information, including certifications and documentation, <a href="https://github.com/Nmartin169/Nportfolio">here</a>.
+Find more projects, codes, and general information, including certifications and documentation, <a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQA3wH1d0EzpQ5fcpIgndzdfAQHQtf6wqAkkmwOc9h8_9So?e=BtlquQ" class="theme-img"> <img src="assets/link_light.png" style="max-width:9.5%; margin-left:10px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:9.5%; margin-left:10px; height:auto;" class="dark-img" alt="Logo"> </a>
+
+<a href="https://github.com/Nmartin169/Nportfolio">here</a>.
