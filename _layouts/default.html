@@ -67,6 +67,13 @@
         background-color: var(--code-bg);
       }
 
+      .theme-toggle-btn img {
+        width: 20px;
+        height: 20px;
+        display: block;
+      }
+
+
       /* ICON-ONLY THEME TOGGLE */
       .theme-toggle-btn {
         position: absolute;
@@ -129,7 +136,7 @@
   </head>
 
   <body>
-    <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle theme">🌙</button>
+    <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle theme"><img id="theme-icon" src="/assets/light_moon.png" alt="Toggle theme"></button>
 
     <div class="wrapper">
       <header>
@@ -171,16 +178,17 @@
 
     <script>
       const toggleBtn = document.getElementById('theme-toggle');
+      const icon = document.getElementById('theme-icon');
       const TRANSITION_TIME = 450; // ms
       const savedTheme = localStorage.getItem('theme');
 
       // Initial load
       if (!savedTheme || savedTheme === 'dark') {
         document.documentElement.setAttribute('data-theme', 'dark');
-        toggleBtn.textContent = '☀️';
+        icon.src = '/assets/dark_sun.png';
       } else {
         document.documentElement.removeAttribute('data-theme');
-        toggleBtn.textContent = '🌙';
+        icon.src = '/assets/light_moon.png';
       }
 
       toggleBtn.addEventListener('click', () => {
@@ -193,12 +201,12 @@
           // Switch to light (remove attribute)
           document.documentElement.removeAttribute('data-theme');
           localStorage.setItem('theme', 'light');
-          toggleBtn.textContent = '🌙';
+          icon.src = '/assets/light_moon.png';
         } else {
           // Switch to dark
           document.documentElement.setAttribute('data-theme', 'dark');
           localStorage.setItem('theme', 'dark');
-          toggleBtn.textContent = '☀️';
+          icon.src = '/assets/dark_sun.png';
         }
 
         setTimeout(() => {
