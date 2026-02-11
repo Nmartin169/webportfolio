@@ -13,7 +13,7 @@
 ## RESEARCH PROJECT
  
 ### Business and Culture in China
-<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQA9qi01WmwTRLhgH5zQNqd_AWQEMq8tCp5TYIi_62bDsvU?e=XVcHZ8" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.5%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.5%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
+<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQA9qi01WmwTRLhgH5zQNqd_AWQEMq8tCp5TYIi_62bDsvU?e=XVcHZ8" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
 <br>
 
 >Goal: Understand business conditions in China.
@@ -30,7 +30,7 @@
 
  
 ### DeltaTech Manufacturing’s Production Decision Analysis (Q2 2024)
-<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQCvzM2PaCxAQasZLDJ_dB_2AfRSX48P3TTWP_Jhe3EMQ3Q?e=TDa20u" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.5%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.5%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
+<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQCvzM2PaCxAQasZLDJ_dB_2AfRSX48P3TTWP_Jhe3EMQ3Q?e=TDa20u" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
 <br>
 
 >Goal: Evaluate profitability of DeltaPro Wireless Headphones.
