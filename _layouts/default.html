@@ -112,7 +112,7 @@
 
   <body>
     <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle theme">
-      <img id="theme-icon" src="/assets/light_moon.png" alt="Toggle theme">
+      <img id="theme-icon" src="{{ '/assets/light_moon.png' | relative_url }}" alt="Toggle theme">
     </button>
 
     <div class="wrapper">
@@ -161,10 +161,10 @@
 
       if (!savedTheme || savedTheme === 'dark') {
         document.documentElement.setAttribute('data-theme', 'dark');
-        icon.src = '/assets/dark_sun.png';
+        icon.src = '{{ '/assets/dark_sun.png' | relative_url }}';
       } else {
         document.documentElement.removeAttribute('data-theme');
-        icon.src = '/assets/light_moon.png';
+        icon.src = '{{ '/assets/light_moon.png' | relative_url }}';
       }
 
       toggleBtn.addEventListener('click', () => {
@@ -176,11 +176,11 @@
         if (isDark) {
           document.documentElement.removeAttribute('data-theme');
           localStorage.setItem('theme', 'light');
-          icon.src = '/assets/light_moon.png';
+          icon.src = '{{ '/assets/light_moon.png' | relative_url }}';
         } else {
           document.documentElement.setAttribute('data-theme', 'dark');
           localStorage.setItem('theme', 'dark');
-          icon.src = '/assets/dark_sun.png';
+          icon.src = '{{ '/assets/dark_sun.png' | relative_url }}';
         }
 
         setTimeout(() => {
