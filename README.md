@@ -4,7 +4,7 @@
 <a href="https://github.com/Nmartin169/Nportfolio/tree/main/CERTIFICATIONS">Certifications</a>
 
 
-<div style="display:flex; gap:16px;"> <a href="https://wa.me/2348053056811"> <img src="assets/whatsapp.WEBP" style="max-width:9.5%; height:auto;"> </a>  <a href="https://github.com/Nmartin169/Nportfolio"> <img src="assets/github_light.PNG" style="max-width:9.5%; height:auto;"> </a>  <a href="https://www.linkedin.com/in/ikenna-m-d-nwankwo-3a2390258"> <img src="assets/linkedIn.png" style="max-width:9.5%; height:auto;"> </a>  <a href="martin.nwankwo.169@gmail.com"> <img src="assets/mail.png" style="max-width:9.5%; height:auto;"> </a> </div>
+<a href="https://wa.me/2348053056811"> <img src="assets/whatsapp.WEBP" style="max-width:9.5%; height:auto;"> </a>  <a href="https://github.com/Nmartin169/Nportfolio"> <img src="assets/github_light.PNG" style="max-width:9.5%; margin-left:16px; height:auto;"> </a>  <a href="https://www.linkedin.com/in/ikenna-m-d-nwankwo-3a2390258"> <img src="assets/linkedIn.png" style="max-width:9.5%; margin-left:16px; height:auto;"> </a>  <a href="martin.nwankwo.169@gmail.com"> <img src="assets/mail.png" style="max-width:9.5%; margin-left:16px; height:auto;"> </a>
 
 
  
