@@ -1,8 +1,9 @@
 # Business Consulting
 
-<a href="https://github.com/Nmartin169/Nportfolio/tree/main/CERTIFICATIONS">Certifications</a>
-
 >Portfolio showcasing Data Analytics, Research, and Business Strategy Projects.
+
+
+<a href="https://github.com/Nmartin169/Nportfolio/tree/main/CERTIFICATIONS">Certifications</a>
 
 
 
