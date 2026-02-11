@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Open Graph (LinkedIn, Facebook, WhatsApp) -->
+    <!-- Open Graph -->
     <meta property="og:title" content="Ikenna M. D. Nwankwo">
     <meta property="og:description" content="Portfolio showcasing Data Analytics, Research, and Business Strategy Projects.">
     <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/preview.png">
@@ -17,8 +17,7 @@
     <meta name="twitter:title" content="Ikenna M. D. Nwankwo">
     <meta name="twitter:description" content="Portfolio showcasing Data Analytics, Research, and Business Strategy Projects.">
     <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/preview.png">
-    
-    
+
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
     <style>
@@ -48,14 +47,8 @@
         transition: background-color 0.43s, color 0.43s;
       }
 
-      h1, h2, h3, h4, h5, h6 {
-        color: var(--heading-color);
-      }
-
-      header h1 a {
-        color: var(--heading-color);
-      }
-
+      h1, h2, h3, h4, h5, h6 { color: var(--heading-color); }
+      header h1 a { color: var(--heading-color); }
       a { color: var(--link-color); }
 
       blockquote {
@@ -63,8 +56,19 @@
         border-left: 4px solid var(--blockquote-border);
       }
 
-      code, pre {
-        background-color: var(--code-bg);
+      code, pre { background-color: var(--code-bg); }
+
+      .theme-toggle-btn {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        background: transparent;
+        border: none;
+        padding: 0;
+        cursor: pointer;
+        z-index: 1000;
+        opacity: 1;
+        transition: transform 0.43s ease, opacity 0.33s ease;
       }
 
       .theme-toggle-btn img {
@@ -73,50 +77,23 @@
         display: block;
       }
 
-
-      /* ICON-ONLY THEME TOGGLE */
-      .theme-toggle-btn {
-        position: absolute;
-        top: 20px;
-        right: 20px;
-        background: transparent;
-        border: none;
-        padding: 0;
-        font-size: 20px;
-        cursor: pointer;
-        color: var(--heading-color);
-        z-index: 1000;
-
-        opacity: 1;
-        
-        transition: 
-          transform 0.43s ease,
-          opacity 0.33s ease,
-          color 0.33s ease;
-      }
-
-      .theme-toggle-btn:hover {
-        opacity: 0.8;
-      }
+      .theme-toggle-btn:hover { opacity: 0.8; }
 
       .theme-toggle-btn.is-transitioning {
         opacity: 0.5;
-        pointer-events: none; /* prevent double clicks */
+        pointer-events: none;
       }
 
       .theme-toggle-btn.is-animating {
         transform: rotate(180deg) scale(0.8);
       }
-      
-      /* Restore original spacing */
+
       header img.logo-img {
         border-radius: 50%;
         margin-bottom: 12px;
       }
 
-      header h1 {
-        margin-top: 0;
-      }
+      header h1 { margin-top: 0; }
 
       @media (max-width: 768px) {
         .theme-toggle-btn {
@@ -124,19 +101,19 @@
           right: 10px;
         }
       }
-      
-      /* Logo theme swap */
+
       .light-img { display: inline; }
       .dark-img { display: none; }
 
       [data-theme="dark"] .light-img { display: none; }
       [data-theme="dark"] .dark-img { display: inline; }
-      
     </style>
   </head>
 
   <body>
-    <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle theme"><img id="theme-icon" src="/assets/light_moon.png" alt="Toggle theme"></button>
+    <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle theme">
+      <img id="theme-icon" src="/assets/light_moon.png" alt="Toggle theme">
+    </button>
 
     <div class="wrapper">
       <header>
@@ -179,10 +156,9 @@
     <script>
       const toggleBtn = document.getElementById('theme-toggle');
       const icon = document.getElementById('theme-icon');
-      const TRANSITION_TIME = 450; // ms
+      const TRANSITION_TIME = 450;
       const savedTheme = localStorage.getItem('theme');
 
-      // Initial load
       if (!savedTheme || savedTheme === 'dark') {
         document.documentElement.setAttribute('data-theme', 'dark');
         icon.src = '/assets/dark_sun.png';
@@ -198,12 +174,10 @@
           document.documentElement.getAttribute('data-theme') === 'dark';
 
         if (isDark) {
-          // Switch to light (remove attribute)
           document.documentElement.removeAttribute('data-theme');
           localStorage.setItem('theme', 'light');
           icon.src = '/assets/light_moon.png';
         } else {
-          // Switch to dark
           document.documentElement.setAttribute('data-theme', 'dark');
           localStorage.setItem('theme', 'dark');
           icon.src = '/assets/dark_sun.png';
