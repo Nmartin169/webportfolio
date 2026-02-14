@@ -1,7 +1,13 @@
+# Site settings
 title: Ikenna M. D. Nwankwo
 logo: /assets/head_shot.png
 #description: Portfolio showcasing Data Analytics, Research, and Business Strategy Projects.
-show_downloads: true
+#show_downloads: true
 theme: jekyll-theme-minimal
 url: "https://nmartin169.github.io"
 baseurl: "/webportfolio"
+
+# Plugins section
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
