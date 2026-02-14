@@ -5,18 +5,37 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <!-- Primary SEO -->
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <meta name="author" content="Ikenna M. D. Nwankwo">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
     <!-- Open Graph -->
-    <meta property="og:title" content="Ikenna M. D. Nwankwo">
-    <meta property="og:description" content="Portfolio showcasing Data Analytics, Research, and Business Strategy Projects.">
+    <meta property="og:title" content="{{ page.title | default: site.title }}">
+    <meta property="og:description" content="{{ page.description | default: site.description }}">
     <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/preview.png">
-    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:type" content="website">
 
     <!-- Twitter / X -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Ikenna M. D. Nwankwo">
-    <meta name="twitter:description" content="Portfolio showcasing Data Analytics, Research, and Business Strategy Projects.">
+    <meta name="twitter:title" content="{{ page.title | default: site.title }}">
+    <meta name="twitter:description" content="{{ page.description | default: site.description }}">
     <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/preview.png">
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Ikenna M. D. Nwankwo",
+      "url": "{{ site.url }}",
+      "jobTitle": "Data Analyst & Business Strategy Researcher",
+      "image": "{{ site.url }}{{ site.baseurl }}/assets/preview.png"
+    }
+    </script>
 
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
