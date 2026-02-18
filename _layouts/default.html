@@ -5,32 +5,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- SEO Meta Tags -->
-    <title>Ikenna M. D. Nwankwo</title>
-    <meta name="description" content="Portfolio showcasing Data Analytics, Research, and Business Strategy Projects by Ikenna M. D. Nwankwo.">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
     <meta name="thumbnail" content="{{ site.url }}{{ site.baseurl }}/assets/preview.png">
     <meta name="robots" content="index, follow, max-image-preview:large">
 
-    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/">
-    
-    <meta property="og:site_name" content="Ikenna M. D. Nwankwo">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+    <meta property="og:site_name" content="{{ site.title }}">
 
-    
-    <!-- Open Graph -->
-    <meta property="og:title" content="Ikenna M. D. Nwankwo">
-    <meta property="og:description" content="Portfolio showcasing Data Analytics, Research, and Business Strategy Projects.">
-    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/preview.png">
-    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}">
+    <meta property="og:title" content="{{ page.title | default: site.title }}">
+    <meta property="og:description" content="{{ page.description | default: site.description }}">
+    <meta property="og:image" content="{{ "/assets/preview.png" | absolute_url }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
     <meta property="og:type" content="website">
 
-    <!-- Twitter / X -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Ikenna M. D. Nwankwo">
-    <meta name="twitter:description" content="Portfolio showcasing Data Analytics, Research, and Business Strategy Projects.">
-    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/preview.png">
+    <meta name="twitter:title" content="{{ page.title | default: site.title }}">
+    <meta name="twitter:description" content="{{ page.description | default: site.description }}">
+    <meta name="twitter:image" content="{{ "/assets/preview.png" | absolute_url }}">
 
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-
 
     <script type="application/ld+json">
     {
@@ -38,21 +32,13 @@
       "@type": "Person",
       "name": "Ikenna M. D. Nwankwo",
       "url": "{{ site.url }}{{ site.baseurl }}",
-      "image": "{{ site.url }}{{ site.baseurl }}/assets/preview.png",
+      "image": "{{ "/assets/preview.png" | absolute_url }}",
       "jobTitle": "Data Analyst & Business Strategy Researcher",
       "description": "Portfolio showcasing Data Analytics, Research, and Business Strategy Projects.",
       "knowsAbout": ["Data Analytics", "Business Strategy", "Research"]
     }
     </script>
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebSite",
-      "name": "Ikenna M. D. Nwankwo",
-      "url": "{{ site.url }}{{ site.baseurl }}/"
-    }
-    </script>
-    
+
     <style>
       :root {
         --bg-color: #ffffff;
@@ -81,15 +67,17 @@
       }
 
       h1, h2, h3, h4, h5, h6 { color: var(--heading-color); }
-      header h1 a { color: var(--heading-color); }
+      header h1 a { color: var(--heading-color); text-decoration: none; }
       a { color: var(--link-color); }
 
       blockquote {
         color: var(--blockquote-color);
         border-left: 4px solid var(--blockquote-border);
+        padding-left: 15px;
+        margin-left: 0;
       }
 
-      code, pre { background-color: var(--code-bg); }
+      code, pre { background-color: var(--code-bg); padding: 2px 5px; border-radius: 3px; }
 
       .theme-toggle-btn {
         position: absolute;
@@ -100,24 +88,16 @@
         padding: 0;
         cursor: pointer;
         z-index: 1000;
-        opacity: 1;
-        transition: transform 0.43s ease, opacity 0.33s ease;
       }
 
       .theme-toggle-btn img {
         width: 22.5px;
         height: 22.5px;
         display: block;
+        transition: transform 0.43s ease;
       }
 
-      .theme-toggle-btn:hover { opacity: 0.8; }
-
-      .theme-toggle-btn.is-transitioning {
-        opacity: 0.5;
-        pointer-events: none;
-      }
-
-      .theme-toggle-btn.is-animating {
+      .theme-toggle-btn.is-animating img {
         transform: rotate(180deg) scale(0.8);
       }
 
@@ -126,33 +106,29 @@
         margin-bottom: 12px;
       }
 
-      header h1 { margin-top: 0; }
-
       @media (max-width: 768px) {
-        .theme-toggle-btn {
-          top: 10px;
-          right: 10px;
-        }
+        .theme-toggle-btn { top: 10px; right: 10px; }
       }
-
-      .light-img { display: inline; }
-      .dark-img { display: none; }
-
-      [data-theme="dark"] .light-img { display: none; }
-      [data-theme="dark"] .dark-img { display: inline; }
     </style>
+
+    <script>
+      const savedTheme = localStorage.getItem('theme') || 'dark';
+      if (savedTheme === 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
+    </script>
   </head>
 
   <body>
     <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle theme">
-      <img id="theme-icon" src="{{ '/assets/light_moon.png' | relative_url }}" alt="Toggle theme">
+      <img id="theme-icon" src="" alt="Toggle theme">
     </button>
 
     <div class="wrapper">
       <header>
         {% if site.logo %}
-          <a href="{{ "/" | relative_url }}" class="anchor">
-            <img src="{{ site.logo | relative_url }}" alt="Logo" class="logo-img">
+          <a href="{{ "/" | relative_url }}">
+            <img src="{{ site.logo | relative_url }}" alt="Logo" class="logo-img" width="100">
           </a>
         {% endif %}
 
@@ -167,58 +143,51 @@
         {% endif %}
       </header>
 
-      <section>
-        {{ content }}
-      </section>
+      <main>
+        <section>
+          {{ content }}
+        </section>
+      </main>
 
       <footer>
-        {% if site.github.is_project_page %}
-          <p>This project is maintained by
-            <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
-          </p>
-        {% endif %}
-        <p>
-          <small>
-            Hosted on GitHub Pages — Theme by
-            <a href="https://github.com/orderedlist">orderedlist</a>
-          </small>
-        </p>
+        <p><small>Hosted on GitHub Pages — Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
 
     <script>
       const toggleBtn = document.getElementById('theme-toggle');
       const icon = document.getElementById('theme-icon');
-      const TRANSITION_TIME = 450;
-      const savedTheme = localStorage.getItem('theme');
+      
+      // Paths for icons
+      const sunIcon = '{{ "/assets/dark_sun.png" | relative_url }}';
+      const moonIcon = '{{ "/assets/light_moon.png" | relative_url }}';
 
-      if (!savedTheme || savedTheme === 'dark') {
-        document.documentElement.setAttribute('data-theme', 'dark');
-        icon.src = '{{ '/assets/dark_sun.png' | relative_url }}';
-      } else {
-        document.documentElement.removeAttribute('data-theme');
-        icon.src = '{{ '/assets/light_moon.png' | relative_url }}';
-      }
+      // Set initial icon based on theme
+      const updateIcon = () => {
+        const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+        icon.src = isDark ? sunIcon : moonIcon;
+      };
+
+      updateIcon();
 
       toggleBtn.addEventListener('click', () => {
-        toggleBtn.classList.add('is-animating', 'is-transitioning');
-
-        const isDark =
-          document.documentElement.getAttribute('data-theme') === 'dark';
+        toggleBtn.classList.add('is-animating');
+        
+        const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
 
         if (isDark) {
           document.documentElement.removeAttribute('data-theme');
           localStorage.setItem('theme', 'light');
-          icon.src = '{{ '/assets/light_moon.png' | relative_url }}';
         } else {
           document.documentElement.setAttribute('data-theme', 'dark');
           localStorage.setItem('theme', 'dark');
-          icon.src = '{{ '/assets/dark_sun.png' | relative_url }}';
         }
 
+        updateIcon();
+
         setTimeout(() => {
-          toggleBtn.classList.remove('is-animating', 'is-transitioning');
-        }, TRANSITION_TIME);
+          toggleBtn.classList.remove('is-animating');
+        }, 450);
       });
     </script>
   </body>
