@@ -50,11 +50,9 @@
 
 >Narrative: Public health is the silent engine of economic growth. I conducted an extensive synthesis of academic and economic data to quantify how malaria hampers Nigeria's productivity. By examining the intersection of health and labor, I provided a data-backed foundation for policy and economic planning.
 
->Solution: Synthesized academic and non-academic sources.
+>Key Outcome: Delivered a strategic roadmap for policymakers to understand the high cost of inaction and the long-term benefits of a healthier workforce.
 
->Key Outcome: Evidence for policy and economic planning.
-
->Skills/Tools: Research, critical evaluation, reporting.
+>Tools: Research, critical evaluation, reporting, Microsoftword
 
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/malaria_ng.JPG">
