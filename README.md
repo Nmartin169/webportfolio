@@ -48,11 +48,11 @@
 <a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQA-RU1Bkcv7QqCifNpz2RP-ARL7kBimNNdtqBArNWqAIVA?e=YzNYa1" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
->Goal: Assess malaria’s economic effect.
+>Narrative: Public health is the silent engine of economic growth. I conducted an extensive synthesis of academic and economic data to quantify how malaria hampers Nigeria's productivity. By examining the intersection of health and labor, I provided a data-backed foundation for policy and economic planning.
 
 >Solution: Synthesized academic and non-academic sources.
 
->Impact: Evidence for policy and economic planning.
+>Key Outcome: Evidence for policy and economic planning.
 
 >Skills/Tools: Research, critical evaluation, reporting.
 
