@@ -239,7 +239,7 @@ IBM Data Analyst Professional Certificate | Coursera 
 
  
 
-Ready to turn your data into a roadmap? Let’s discuss how we can streamline your operations and drive your next strategic move.
+>Ready to turn your data into a roadmap? Let’s discuss how we can streamline your operations and drive your next strategic move.
 
 <br>
 
