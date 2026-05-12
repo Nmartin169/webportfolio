@@ -1,4 +1,4 @@
-# Business Consulting
+# Bridging the Gap Between Information and Impact.
 
 >Portfolio showcasing Data Analytics, Research, and Business Strategy Projects.
 <br>
