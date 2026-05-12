@@ -18,7 +18,7 @@
 <a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQA9qi01WmwTRLhgH5zQNqd_AWQEMq8tCp5TYIi_62bDsvU?e=XVcHZ8" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
 <br>
 
->Goal: Understand business conditions in China.
+>Goal: Scaling into a new territory requires more than just capital; it requires a deep understanding of local nuances. I conducted a comprehensive study of China’s regulatory landscape and economic drivers to help businesses minimize entry risks.
 
 >Solution: In-depth research on culture, economy & regulation.
 
