@@ -33,20 +33,18 @@
 <a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQCvzM2PaCxAQasZLDJ_dB_2AfRSX48P3TTWP_Jhe3EMQ3Q?e=TDa20u" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
 <br>
 
->Goal: Evaluate profitability of DeltaPro Wireless Headphones.
+>Narrative: When launching a new product like the DeltaPro Wireless Headphones, guessing the price is a risk no company can afford. I developed a rigorous financial model to evaluate production costs and profitability metrics. By analyzing the key drivers of cost, I provided the leadership team with the clarity needed to set competitive prices and scale production safely.
 
->Solution: Financial analysis using key cost metrics.
+>Key Outcome: Eliminated financial guesswork, ensuring that every production decision was backed by data-driven profitability targets.
 
->Impact: Informed pricing and production decisions.
-
->Skills/Tools: Financial analysis, Excel, business modelling.
+>Tools: Financial analysis, Excel, business modelling.
 
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/DeltaTech.jpeg">
 
 
  
-### The Effect of Malaria on the Nigerian Economy
+### Strengthening the Nation: The Economic Case for Malaria Eradication.
 <a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQA-RU1Bkcv7QqCifNpz2RP-ARL7kBimNNdtqBArNWqAIVA?e=YzNYa1" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
