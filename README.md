@@ -1,6 +1,7 @@
 # Business Consulting
 
 >Bridging the gap between information and impact.
+
 >I don’t just capture performance; I predict and facilitate future decisions. My work at the intersection of business strategy and data science, from automating workflows for bakeries to analyzing economic impacts in Nigeria, is driven by a single goal: dismantling the barriers to organizational efficiency.
 <br>
 
