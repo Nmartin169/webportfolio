@@ -143,4 +143,15 @@
       [data-theme="dark"] .light-img { display: none; }
       [data-theme="dark"] .dark-img { display: inline; }
     </style>
+    <!-- Inside _includes/head.html -->
+    <script>
+      // Immediate theme detection to prevent flashing
+      const savedTheme = localStorage.getItem('theme');
+      if (!savedTheme || savedTheme === 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      } else {
+        document.documentElement.removeAttribute('data-theme');
+      }
+    </script>
+
   </head>
