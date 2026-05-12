@@ -235,7 +235,7 @@ IBM Data Analyst Professional Certificate | Coursera 
 
 
 
-
+<br>
 
 
 
@@ -254,7 +254,7 @@ IBM Data Analyst Professional Certificate | Coursera 
 
 
 
-This portfolio captures various aspects of my work in research, analytics, and business.
+<br>
 
 
 Find more projects, codes, and general information, including certifications and documentation, <a href="https://github.com/Nmartin169/Nportfolio">here</a>.
