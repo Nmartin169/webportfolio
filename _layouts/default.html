@@ -49,36 +49,40 @@
       const toggleBtn = document.getElementById('theme-toggle');
       const icon = document.getElementById('theme-icon');
       const TRANSITION_TIME = 450;
-      const savedTheme = localStorage.getItem('theme');
 
-      if (!savedTheme || savedTheme === 'dark') {
-        document.documentElement.setAttribute('data-theme', 'dark');
-        icon.src = '{{ '/assets/dark_sun.png' | relative_url }}';
-      } else {
-        document.documentElement.removeAttribute('data-theme');
-        icon.src = '{{ '/assets/light_moon.png' | relative_url }}';
+      // Function to set the correct icon based on current theme
+      function updateIcon() {
+        const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+        icon.src = isDark 
+          ? '{{ "/assets/dark_sun.png" | relative_url }}' 
+          : '{{ "/assets/light_moon.png" | relative_url }}';
       }
+
+      // Set the icon correctly on page load
+      updateIcon();
 
       toggleBtn.addEventListener('click', () => {
         toggleBtn.classList.add('is-animating', 'is-transitioning');
 
-        const isDark =
-          document.documentElement.getAttribute('data-theme') === 'dark';
+        const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
 
         if (isDark) {
           document.documentElement.removeAttribute('data-theme');
           localStorage.setItem('theme', 'light');
-          icon.src = '{{ '/assets/light_moon.png' | relative_url }}';
         } else {
           document.documentElement.setAttribute('data-theme', 'dark');
           localStorage.setItem('theme', 'dark');
-          icon.src = '{{ '/assets/dark_sun.png' | relative_url }}';
         }
+    
+        updateIcon();
 
         setTimeout(() => {
           toggleBtn.classList.remove('is-animating', 'is-transitioning');
         }, TRANSITION_TIME);
       });
     </script>
+
+
+
   </body>
 </html>
