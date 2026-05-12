@@ -20,11 +20,9 @@
 
 >Goal: Scaling into a new territory requires more than just capital; it requires a deep understanding of local nuances. I conducted a comprehensive study of China’s regulatory landscape and economic drivers to help businesses minimize entry risks.
 
->Solution: In-depth research on culture, economy & regulation.
+>Key Outcome: Transformed complex cultural and regulatory data into a clear expansion strategy.
 
->Impact: Helps businesses plan expansion & reduce risk.
-
->Skills/Tools: Research, analysis, report writing, Word.
+>Tools: Research, analysis, report writing, Microsoftword.
 
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/china_research.JPG">
