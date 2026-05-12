@@ -239,13 +239,20 @@ IBM Data Analyst Professional Certificate | Coursera 
 
  
 
-Using a combination of management, business intelligence, research, data analysis, and problem-solving skills, I am able to not only capture business performances and progress but also predict, recommend, and facilitate future business decisions.
+Ready to turn your data into a roadmap? Let’s discuss how we can streamline your operations and drive your next strategic move.
+
+<br>
+
+
+
+<a href="https://github.com/Nmartin169/Nportfolio" class="theme-img"> <img src="assets/github_light.PNG" style="max-width:9.5%; height:auto;" class="light-img" alt="Logo"> <img src="assets/github_dark.png" style="max-width:9.5%; height:auto;" class="dark-img" alt="Logo"> </a>  <a href="https://www.linkedin.com/in/ikenna-m-d-nwankwo-3a2390258"> <img src="assets/linkedIn.png" style="max-width:9.5%; margin-left:16px; height:auto;"> </a>     <a href="mailto:martin.nwankwo.169@gmail.com" class="theme-img"> <img src="assets/mail_light.png" style="max-width:9.5%; margin-left:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/mail_dark.png" style="max-width:9.5%; margin-left:16px; height:auto;" class="dark-img" alt="Logo"> </a>  <a href="https://wa.me/2348053056811"> <img src="assets/whatsapp.WEBP" style="max-width:9.5%; margin-left:16px; height:auto;"> </a>   
+
+
+
 
 
 
 This portfolio captures various aspects of my work in research, analytics, and business.
-
-
 
 
 Find more projects, codes, and general information, including certifications and documentation, <a href="https://github.com/Nmartin169/Nportfolio">here</a>.
