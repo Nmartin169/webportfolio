@@ -1,6 +1,6 @@
 # Bridging the Gap Between Information and Impact.
 
->Portfolio showcasing Data Analytics, Research, and Business Strategy Projects.
+>Whether it's entering a new market or optimizing internal systems, my goal is to provide the roadmap you need to lead with confidence. I help businesses navigate uncertainty through data-driven research and strategic foresight.
 <br>
 
 
