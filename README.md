@@ -1,6 +1,6 @@
 # Bridging the Gap Between Information and Impact.
 
->Whether it's entering a new market or optimizing internal systems, my goal is to provide the roadmap you need to lead with confidence. I help businesses navigate uncertainty through data-driven research and strategic foresight.
+>I don’t just capture performance; I predict and facilitate future decisions. My work at the intersection of business strategy and data science, from automating workflows for bakeries to analyzing economic impacts in Nigeria, is driven by a single goal: dismantling the barriers to organizational efficiency.
 <br>
 
 
