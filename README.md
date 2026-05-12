@@ -201,12 +201,12 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
 
 ## WORK EXPERIENCE
  
-Independent Consultant — Business Analyst.  (2025)
+Independent Consultant — Business Analyst.  
 
 * Rithim bakery: Increased overall team productivity by 40% through workflow automation. Also reduced manual sales computation by over 70%, improving data accuracy and turnaround time. and training.
 * Exoda (Fashion-Tech): Achieved break-even in the first month through targeted analytics and marketing insights for the AI-powered fashion business course launch.
  
-Data Analyst @ Moobiq World (2024)
+Data Analyst @ Moobiq World 
  
 * I made a 30% increase in student conversion rate.
 * Maintained a steady and consistent course flow through a 3-course program, which I facilitated.
@@ -214,7 +214,7 @@ Data Analyst @ Moobiq World (2024)
 
  
  
-Business Analyst Trainee @ Brainnest (2023)
+Business Analyst Trainee @ Brainnest
 
 - Successfully conducted competitive analysis on the French cosmetic industry, utilising the Porter’s diamond model. 
 - Mapped out, with a group of five, the external environment of the UK's bodyshop company.
