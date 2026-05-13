@@ -107,17 +107,15 @@
 
 
  
-### Dash App Development for US Domestic Airline Flight Performance
+### Visualizing Operational Excellence: US Aviation Analytics.
 <a href="https://github.com/Nmartin169/Nportfolio/tree/main/Dash%20App%20Development%20for%20US%20Domestic%20Airline%20Flight%20Performance" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
->Goal: Visualize U.S. airline performance data.
+>Narrative: Managing domestic flight data requires a tool that can handle complexity without sacrificing speed. I developed an interactive dashboard to map out U.S. airline performance, allowing stakeholders to identify delay patterns and operational trends in seconds. By transforming raw data into visual logic, I created a way for teams to see exactly where their bottlenecks are.
 
->Solution: Built interactive dashboard with Dash.
+>Key Outcome: Replaced static reports with a dynamic, real-time tool that provides immediate insight into performance trends and delays.
 
->Impact: Easy insight into delays & trends.
-
->Skills/Tools: Python, Dash, HTML, Plotly Express, EDA.
+>Tools: Python, Dash, HTML, Plotly Express, EDA.
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/dash_app.PNG">
 
