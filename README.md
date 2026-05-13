@@ -77,17 +77,15 @@
 
 
  
-### Predictive Analysis of Housing Using Machine Learning
+### Anticipating the Market: Predictive Modeling for Real Estate.
 <a href="https://github.com/Nmartin169/Nportfolio/blob/main/DATA%20MINING/PREDICTIVE_ANALYSIS_ON_HOUSING_USING_MACHINE_LEARNING.ipynb" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
->Goal: Predict house prices in King County (USA).
+>Narrative: In a volatile property market, looking at the past isn't enough; you have to see around the corner. I built a machine learning framework designed to identify the hidden variables that drive property value. By analyzing historical data through advanced regression models, I created a tool that helps stakeholders understand not just what a house is worth today, but what it will be worth tomorrow.
 
->Solution: Machine learning regression models.
+>Key Outcome: Reduced investment uncertainty by providing a data-backed foresight into market trends and valuation drivers.
 
->Impact: Helps in pricing decisions and market prediction.
-
->Skills/Tools: Python, ML, sklearn, pandas.
+>Tools: Python, ML, sklearn, pandas.
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/housing_prediction.JPG">
 
