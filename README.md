@@ -29,7 +29,7 @@
 
 
  
-### DeltaTech Manufacturing’s Production Decision Analysis (Q2 2024)
+### Maximizing Product Profitability: The DeltaPro Analysis.
 <a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQCvzM2PaCxAQasZLDJ_dB_2AfRSX48P3TTWP_Jhe3EMQ3Q?e=TDa20u" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
 <br>
 
