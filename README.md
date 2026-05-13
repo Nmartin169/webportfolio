@@ -62,17 +62,15 @@
 ## DATA PROJECT
  
 
-### Compliance Analysis
+### Building Equity: A Data-Driven Review of Workplace Equality.
 <a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQBq3l0swRmFT5dkZeFJgJEQATA496C2RKDc-UQwq3PDyV0?e=05nVhw" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
->Goal: Review Maka Black Café’s workplace equality.
+>Narrative: Fair treatment isn't just a legal requirement; it’s a competitive advantage. I conducted a comprehensive demographic and salary analysis for Maka Black Cafe to ensure their internal structures reflected their commitment to equality. By comparing internal data against industry benchmarks, I identified the "why" behind their workplace dynamics and provided a roadmap for a more inclusive future.
 
->Solution: Demographic and salary comparison with industry benchmarks.
+>key Outcome: Transformed raw HR data into a clear strategy for closing compliance gaps and fostering a culture where every employee is valued.
 
->Impact: Highlights compliance gaps and recommendations.
-
->Skills/Tools: Power Bi, Excel, legal standards, Statistics
+>Tools: Power Bi, Excel, legal standards, Statistics
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/img_compliance.PNG">
 
