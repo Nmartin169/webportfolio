@@ -122,17 +122,15 @@
 
 
  
-### Data Entry Automation on Excel using VBA, Data Validation, and Lookup functions
+### Reclaiming Time: High-Impact Workflow Automation.
 <a href="https://nexfordu-my.sharepoint.com/:x:/g/personal/inwankwo_learner_nexford_org/IQAWYubq3xuATZ35Z8M22ieaAUHlU-x7fUElN3ikwiD_r50?e=JCRsgB" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
  
->Goal: Reduce manual sales computation errors.
+>Narrative: Manual data entry isn't just slow; it’s a barrier to growth. I designed a custom automation suite using Excel VBA and advanced lookup functions to transform a tedious sales computation process into a streamlined, one-click operation. By removing the burden of manual input, I empowered the team to redirect their energy toward customer service and strategic planning.
 
->Solution: Automated data entry using Excel & VBA.
+>Key Outcome: Successfully reduced manual workload by 80% and slashed calculation errors by 70%, ensuring that business decisions are based on perfect data, not manual guesses.
 
->Impact: Cut manual work by ~80% and errors by ~70%.
-
->Skills/Tools: Excel, VBA, automation.
+>Tools: Excel, VBA, automation.
 
 
 <iframe width="315" height="315"
