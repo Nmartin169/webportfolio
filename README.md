@@ -30,7 +30,7 @@
 
  
 ### Maximizing Product Profitability: The DeltaTech Analysis.
-<a href="https://nexfordu-my.sharepoint.com/:w:/g/personal/inwankwo_learner_nexford_org/IQCvzM2PaCxAQasZLDJ_dB_2AfRSX48P3TTWP_Jhe3EMQ3Q?e=TDa20u" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
+<a href="https://1drv.ms/w/c/d9ea19b8e97dec1d/IQDZa6GrvzjVRKnwfneC5zpDAU4NMdFZgyl7Y2iGAegClQc" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
 <br>
 
 >Narrative: When launching a new product like the DeltaPro Wireless Headphones, guessing the price is a risk no company can afford. I developed a rigorous financial model to evaluate production costs and profitability metrics. By analyzing the key drivers of cost, I provided the leadership team with the clarity needed to set competitive prices and scale production safely.
