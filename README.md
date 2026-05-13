@@ -107,7 +107,7 @@
 
 
  
-### Visualizing Operational Excellence: US Aviation Analytics.
+### Visualizing Operational Excellence: US Aviation Analytics
 <a href="https://github.com/Nmartin169/Nportfolio/tree/main/Dash%20App%20Development%20for%20US%20Domestic%20Airline%20Flight%20Performance" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
@@ -122,7 +122,7 @@
 
 
  
-### Reclaiming Time: High-Impact Workflow Automation.
+### Reclaiming Time: High-Impact Workflow Automation
 <a href="https://nexfordu-my.sharepoint.com/:x:/g/personal/inwankwo_learner_nexford_org/IQAWYubq3xuATZ35Z8M22ieaAUHlU-x7fUElN3ikwiD_r50?e=JCRsgB" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
  
@@ -145,17 +145,15 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
  
 ## BUSINESS PROJECT
  
-### External Business Analysis
+### Decoding Competition: Strategic Positioning & Market Dynamics
 <a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQDC95P5xj2-RbrijGyl4gWbAZwgBGoMMZzjuSev8MR0AQM?e=7CeOFr" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
->Goal: Evaluate external business environments.
+>Narrative: Success isn't just about what happens inside a company; it’s about how that company dances with the world outside. I performed a high-level external analysis using the PESTEL and Porter’s Five Forces frameworks to map out the political, economic, and competitive currents affecting various industries. By identifying these "invisible" forces, I provided the strategic insights needed to navigate market volatility with confidence.
 
->Solution: Applied PESTEL and Porter frameworks to multiple cases.
+>Key Outcome: Delivered a strategic compass for leadership, turning external uncertainty into a structured roadmap for market entry and competitive positioning.
 
->Impact: Strategic insights on market forces.
-
->Skills/Tools: Business analysis frameworks, report writing.
+>Tools: Business analysis frameworks, report writing.
  
 
 <img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/img_external.JPG">
