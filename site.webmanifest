@@ -9,8 +9,8 @@
       "purpose": "maskable"
     },
     {
-      "src": "/webportfolio/web-app-manifest-512x512.png?v=20260513",
-      "sizes": "512x512",
+      "src": "/webportfolio/web-app-manifest-375x375.png?v=20260513",
+      "sizes": "375x375",
       "type": "image/png",
       "purpose": "maskable"
     }
