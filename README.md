@@ -146,7 +146,7 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
 ## BUSINESS PROJECT
  
 ### Decoding Competition: Strategic Positioning & Market Dynamics
-<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQDC95P5xj2-RbrijGyl4gWbAZwgBGoMMZzjuSev8MR0AQM?e=7CeOFr" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQB56sFm8PsxR4s75XYhG4qGARjWOrNsvsa3vpzwuEw1cLo" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: Success isn't just about what happens inside a company; it’s about how that company dances with the world outside. I performed a high-level external analysis using the PESTEL and Porter’s Five Forces frameworks to map out the political, economic, and competitive currents affecting various industries. By identifying these "invisible" forces, I provided the strategic insights needed to navigate market volatility with confidence.
