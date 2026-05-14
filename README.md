@@ -180,7 +180,8 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
  
 
 ## WORK EXPERIENCE
- 
+
+
 Independent Consultant — Business Analyst | Rithim Bakery
 
 * Orchestrated a 40% increase in total team productivity by auditing manual workflows and implementing custom automation solutions that streamlined daily operations.
