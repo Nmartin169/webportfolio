@@ -15,7 +15,7 @@
 ## RESEARCH PROJECT
  
 ### De-risking Global Expansion: Navigating the Chinese Market
-<a href="https://1drv.ms/w/c/d9ea19b8e97dec1d/IQBdjHHT-T4pQJ2u5eB5dv_TAfHV9IKU8whmu4OGlIf7X3s?web=1" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
+<a href="https://docs.google.com/document/d/1ns7s7eIzCLpxToPtSMrh5YY4S-ah9_IP/edit?usp=drivesdk&ouid=111861280793463375821&rtpof=true&sd=true" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
 <br>
 
 >Narrative: Scaling into a new territory requires more than just capital; it requires a deep understanding of local nuances. I conducted a comprehensive study of China’s regulatory landscape and economic drivers to help businesses minimize entry risks.
@@ -30,7 +30,7 @@
 
  
 ### Maximizing Product Profitability: The DeltaTech Analysis.
-<a href="https://1drv.ms/w/c/d9ea19b8e97dec1d/IQDZa6GrvzjVRKnwfneC5zpDAU4NMdFZgyl7Y2iGAegClQc?web=1" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
+<a href="https://docs.google.com/document/d/1EExVaMUpiaOg8hgqVyGC3rJcWBTIzXaI/edit?usp=drivesdk&ouid=111861280793463375821&rtpof=true&sd=true" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
 <br>
 
 >Narrative: When launching a new product like the DeltaPro Wireless Headphones, guessing the price is a risk no company can afford. I developed a rigorous financial model to evaluate production costs and profitability metrics. By analyzing the key drivers of cost, I provided the leadership team with the clarity needed to set competitive prices and scale production safely.
@@ -146,7 +146,7 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
 ## BUSINESS PROJECT
  
 ### Decoding Competition: Strategic Positioning & Market Dynamics
-<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQB56sFm8PsxR4s75XYhG4qGARjWOrNsvsa3vpzwuEw1cLo?web=1" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://docs.google.com/presentation/d/1Cvzs0za7FkEyUnymAD-NiMbeta5pJfBH/edit?usp=drivesdk&ouid=111861280793463375821&rtpof=true&sd=true" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: Success isn't just about what happens inside a company; it’s about how that company dances with the world outside. I performed a high-level external analysis using the PESTEL and Porter’s Five Forces frameworks to map out the political, economic, and competitive currents affecting various industries. By identifying these "invisible" forces, I provided the strategic insights needed to navigate market volatility with confidence.
@@ -161,7 +161,7 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
 
  
 ### Unlocking Operational Excellence: A Strategic Internal Audit
-<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQCxeDptVNgtRLRr6GbjIncfAeK0Wh_zCRx_h5GZX0s-5aw?web=1" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://docs.google.com/presentation/d/1cJfu9wqcdFkIzL4dTRU9PyLMw2cbt1KE/edit?usp=drivesdk&ouid=111861280793463375821&rtpof=true&sd=true" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: A business is only as strong as its internal architecture. I conducted deep-dive assessments of firm operations using SWOT, Value Chain, and BCG Matrix frameworks to identify hidden efficiencies and strategic gaps. By looking under the hood of an organization, I provided the clarity needed to align internal capabilities with long-term goals.
