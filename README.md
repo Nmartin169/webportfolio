@@ -63,7 +63,7 @@
  
 
 ### Building Equity: A Data-Driven Review of Workplace Equality
-<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQBq3l0swRmFT5dkZeFJgJEQATA496C2RKDc-UQwq3PDyV0?e=05nVhw" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQDrA6x8jTzmSYYO85--ML5PAT6okeTq7F7Xbt9SLK43aGc" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: Fair treatment isn't just a legal requirement; it’s a competitive advantage. I conducted a comprehensive demographic and salary analysis for Maka Black Cafe to ensure their internal structures reflected their commitment to equality. By comparing internal data against industry benchmarks, I identified the "why" behind their workplace dynamics and provided a roadmap for a more inclusive future.
