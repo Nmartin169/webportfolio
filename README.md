@@ -194,11 +194,11 @@ Data Analyst | Moobiq World
 
  
  
-Business Analyst Trainee @ Brainnest
+Business Analyst Trainee | Brainnest
 
-- Successfully conducted competitive analysis on the French cosmetic industry, utilising the Porter’s diamond model. 
-- Mapped out, with a group of five, the external environment of the UK's bodyshop company.
-- Designed Dangote’s BCG matrix using reports from the 2018/2019 compilation.
+* Collaborated within a five-person strategic team to map the external environment of a UK-based automotive firm, delivering a comprehensive audit of market pressures and growth opportunities.
+* Synthesized historical performance data to design a BCG Matrix for Dangote Group, enabling a clear visualization of product portfolio strength and investment priorities.
+* Executed a deep-dive competitive analysis of the French cosmetic industry, utilizing Porter’s Diamond Model to identify the structural drivers of market success.
 
  
  
