@@ -161,7 +161,7 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
 
  
 ### Unlocking Operational Excellence: A Strategic Internal Audit
-<a href="https://nexfordu-my.sharepoint.com/:p:/g/personal/inwankwo_learner_nexford_org/IQA3wH1d0EzpQ5fcpIgndzdfAQHQtf6wqAkkmwOc9h8_9So?e=BtlquQ" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQCxeDptVNgtRLRr6GbjIncfAeK0Wh_zCRx_h5GZX0s-5aw" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: A business is only as strong as its internal architecture. I conducted deep-dive assessments of firm operations using SWOT, Value Chain, and BCG Matrix frameworks to identify hidden efficiencies and strategic gaps. By looking under the hood of an organization, I provided the clarity needed to align internal capabilities with long-term goals.
