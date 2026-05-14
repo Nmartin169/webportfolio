@@ -45,7 +45,7 @@
 
  
 ### Strengthening the Nation: The Economic Case for Malaria Eradication.
-<a href="https://1drv.ms/w/c/d9ea19b8e97dec1d/IQC98ILnWKSiSav4GSoPXxLxARtfbfqE3sE881v5rJbyLcA?web=1" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://docs.google.com/document/d/1YGDhtZBd-2UQ6SRYJ2ZnoMbDPgsdCj9b/edit?usp=drivesdk&ouid=111861280793463375821&rtpof=true&sd=true" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: Public health is the silent engine of economic growth. I conducted an extensive synthesis of academic and economic data to quantify how malaria hampers Nigeria's productivity. By examining the intersection of health and labor, I provided a data-backed foundation for policy and economic planning.
@@ -123,7 +123,7 @@
 
  
 ### Reclaiming Time: High-Impact Workflow Automation
-<a href="https://1drv.ms/x/c/d9ea19b8e97dec1d/IQBFKpDi9dHQSaaKIFe0mY5TAfs1E0Qy6xyQL9qdNVapKBQ?web=1" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://drive.google.com/file/d/1RXf69SAnH5S-5x3_Ou1soHEu5osteAQO/view?usp=drivesdk" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
  
 >Narrative: Manual data entry isn't just slow; it’s a barrier to growth. I designed a custom automation suite using Excel VBA and advanced lookup functions to transform a tedious sales computation process into a streamlined, one-click operation. By removing the burden of manual input, I empowered the team to redirect their energy toward customer service and strategic planning.
