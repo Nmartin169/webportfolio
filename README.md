@@ -15,7 +15,7 @@
 ## RESEARCH PROJECT
  
 ### De-risking Global Expansion: Navigating the Chinese Market
-<a href="https://1drv.ms/w/c/d9ea19b8e97dec1d/IQBdjHHT-T4pQJ2u5eB5dv_TAfHV9IKU8whmu4OGlIf7X3s" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
+<a href="https://1drv.ms/w/c/d9ea19b8e97dec1d/IQBdjHHT-T4pQJ2u5eB5dv_TAfHV9IKU8whmu4OGlIf7X3s?web=1" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
 <br>
 
 >Narrative: Scaling into a new territory requires more than just capital; it requires a deep understanding of local nuances. I conducted a comprehensive study of China’s regulatory landscape and economic drivers to help businesses minimize entry risks.
@@ -30,7 +30,7 @@
 
  
 ### Maximizing Product Profitability: The DeltaTech Analysis.
-<a href="https://1drv.ms/w/c/d9ea19b8e97dec1d/IQDZa6GrvzjVRKnwfneC5zpDAU4NMdFZgyl7Y2iGAegClQc" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
+<a href="https://1drv.ms/w/c/d9ea19b8e97dec1d/IQDZa6GrvzjVRKnwfneC5zpDAU4NMdFZgyl7Y2iGAegClQc?web=1" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
 <br>
 
 >Narrative: When launching a new product like the DeltaPro Wireless Headphones, guessing the price is a risk no company can afford. I developed a rigorous financial model to evaluate production costs and profitability metrics. By analyzing the key drivers of cost, I provided the leadership team with the clarity needed to set competitive prices and scale production safely.
@@ -45,7 +45,7 @@
 
  
 ### Strengthening the Nation: The Economic Case for Malaria Eradication.
-<a href="https://1drv.ms/w/c/d9ea19b8e97dec1d/IQC98ILnWKSiSav4GSoPXxLxARtfbfqE3sE881v5rJbyLcA" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://1drv.ms/w/c/d9ea19b8e97dec1d/IQC98ILnWKSiSav4GSoPXxLxARtfbfqE3sE881v5rJbyLcA?web=1" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: Public health is the silent engine of economic growth. I conducted an extensive synthesis of academic and economic data to quantify how malaria hampers Nigeria's productivity. By examining the intersection of health and labor, I provided a data-backed foundation for policy and economic planning.
@@ -63,7 +63,7 @@
  
 
 ### Building Equity: A Data-Driven Review of Workplace Equality
-<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQDrA6x8jTzmSYYO85--ML5PAT6okeTq7F7Xbt9SLK43aGc" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQDrA6x8jTzmSYYO85--ML5PAT6okeTq7F7Xbt9SLK43aGc?web=1" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: Fair treatment isn't just a legal requirement; it’s a competitive advantage. I conducted a comprehensive demographic and salary analysis for Maka Black Cafe to ensure their internal structures reflected their commitment to equality. By comparing internal data against industry benchmarks, I identified the "why" behind their workplace dynamics and provided a roadmap for a more inclusive future.
@@ -93,7 +93,7 @@
 
  
 ### Future-Proofing the Enterprise: A Roadmap of Emerging Technologies
-<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQAYQmIamG-7QbfkShpnDw6xAaD27rjh7Ey0SIZRqtmHciY" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQAYQmIamG-7QbfkShpnDw6xAaD27rjh7Ey0SIZRqtmHciY?web=1" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: In an industry that moves at lightning speed, staying relevant requires more than just awareness; it requires a data-backed strategy. I conducted a comprehensive review of evolving software technologies to provide a clear roadmap for organizational upskilling and technical growth. By synthesizing market shifts into a comparative review, I help leadership teams decide which technologies are worth the investment and which are just noise.
@@ -123,7 +123,7 @@
 
  
 ### Reclaiming Time: High-Impact Workflow Automation
-<a href="https://1drv.ms/x/c/d9ea19b8e97dec1d/IQBFKpDi9dHQSaaKIFe0mY5TAfs1E0Qy6xyQL9qdNVapKBQ" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://1drv.ms/x/c/d9ea19b8e97dec1d/IQBFKpDi9dHQSaaKIFe0mY5TAfs1E0Qy6xyQL9qdNVapKBQ?web=1" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
  
 >Narrative: Manual data entry isn't just slow; it’s a barrier to growth. I designed a custom automation suite using Excel VBA and advanced lookup functions to transform a tedious sales computation process into a streamlined, one-click operation. By removing the burden of manual input, I empowered the team to redirect their energy toward customer service and strategic planning.
@@ -146,7 +146,7 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
 ## BUSINESS PROJECT
  
 ### Decoding Competition: Strategic Positioning & Market Dynamics
-<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQB56sFm8PsxR4s75XYhG4qGARjWOrNsvsa3vpzwuEw1cLo" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQB56sFm8PsxR4s75XYhG4qGARjWOrNsvsa3vpzwuEw1cLo?web=1" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: Success isn't just about what happens inside a company; it’s about how that company dances with the world outside. I performed a high-level external analysis using the PESTEL and Porter’s Five Forces frameworks to map out the political, economic, and competitive currents affecting various industries. By identifying these "invisible" forces, I provided the strategic insights needed to navigate market volatility with confidence.
@@ -161,7 +161,7 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
 
  
 ### Unlocking Operational Excellence: A Strategic Internal Audit
-<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQCxeDptVNgtRLRr6GbjIncfAeK0Wh_zCRx_h5GZX0s-5aw" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQCxeDptVNgtRLRr6GbjIncfAeK0Wh_zCRx_h5GZX0s-5aw?web=1" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: A business is only as strong as its internal architecture. I conducted deep-dive assessments of firm operations using SWOT, Value Chain, and BCG Matrix frameworks to identify hidden efficiencies and strategic gaps. By looking under the hood of an organization, I provided the clarity needed to align internal capabilities with long-term goals.
