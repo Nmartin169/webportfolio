@@ -181,16 +181,16 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
 
 ## WORK EXPERIENCE
  
-Independent Consultant — Business Analyst.  
+Independent Consultant — Business Analyst | Rithim Bakery
 
-* Rithim bakery: Increased overall team productivity by 40% through workflow automation. Also reduced manual sales computation by over 70%, improving data accuracy and turnaround time. and training.
-* Exoda (Fashion-Tech): Achieved break-even in the first month through targeted analytics and marketing insights for the AI-powered fashion business course launch.
+* Orchestrated a 40% increase in total team productivity by auditing manual workflows and implementing custom automation solutions that streamlined daily operations.
+* Engineered a 70% reduction in sales computation time, successfully migrating the business from manual entry to an automated system that improved both data accuracy and operational efficiency.
  
-Data Analyst @ Moobiq World 
+Data Analyst | Moobiq World 
  
-* I made a 30% increase in student conversion rate.
-* Maintained a steady and consistent course flow through a 3-course program, which I facilitated.
-* Had 80% success rate on student communication program for dashboard presentation.
+* Driven a 30% increase in student conversion rates by analyzing enrollment data and optimizing the acquisition funnel to better resonate with prospective learners.
+* Streamlined program delivery for a comprehensive three-course curriculum, facilitating a consistent and high-quality learning flow for every cohort.
+* Achieved an 80% success rate in student communication, leading a specialized program that empowered learners to present complex dashboard insights with professional clarity.
 
  
  
