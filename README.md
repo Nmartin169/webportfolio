@@ -93,7 +93,7 @@
 
  
 ### Future-Proofing the Enterprise: A Roadmap of Emerging Technologies
-<a href="https://docs.google.com/presentation/d/1SRmfZ7Bxfdo39vQvWN59TCJH7HRUOFIo/edit?usp=drivesdk&ouid=111861280793463375821&rtpof=true&sd=true" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQAYQmIamG-7QbfkShpnDw6xAaD27rjh7Ey0SIZRqtmHciY" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: In an industry that moves at lightning speed, staying relevant requires more than just awareness; it requires a data-backed strategy. I conducted a comprehensive review of evolving software technologies to provide a clear roadmap for organizational upskilling and technical growth. By synthesizing market shifts into a comparative review, I help leadership teams decide which technologies are worth the investment and which are just noise.
