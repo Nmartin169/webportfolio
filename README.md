@@ -15,7 +15,7 @@
 ## RESEARCH PROJECT
  
 ### De-risking Global Expansion: Navigating the Chinese Market
-<a href="https://docs.google.com/document/d/1ns7s7eIzCLpxToPtSMrh5YY4S-ah9_IP/edit?usp=drivesdk&ouid=111861280793463375821&rtpof=true&sd=true" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
+<a href="https://drive.google.com/file/d/1cTj5i9JYwUHAFteX_OxsgKQzos_Fz-wQ/view?usp=drivesdk" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
 <br>
 
 >Narrative: Scaling into a new territory requires more than just capital; it requires a deep understanding of local nuances. I conducted a comprehensive study of China’s regulatory landscape and economic drivers to help businesses minimize entry risks.
@@ -30,7 +30,7 @@
 
  
 ### Maximizing Product Profitability: The DeltaTech Analysis.
-<a href="https://docs.google.com/document/d/1EExVaMUpiaOg8hgqVyGC3rJcWBTIzXaI/edit?usp=drivesdk&ouid=111861280793463375821&rtpof=true&sd=true" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
+<a href="https://drive.google.com/file/d/1jFeX2Cl2JQ55R8h-dP8YDLoolliVYCOU/view?usp=drivesdk" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
 <br>
 
 >Narrative: When launching a new product like the DeltaPro Wireless Headphones, guessing the price is a risk no company can afford. I developed a rigorous financial model to evaluate production costs and profitability metrics. By analyzing the key drivers of cost, I provided the leadership team with the clarity needed to set competitive prices and scale production safely.
@@ -45,7 +45,7 @@
 
  
 ### Strengthening the Nation: The Economic Case for Malaria Eradication.
-<a href="https://docs.google.com/document/d/1YGDhtZBd-2UQ6SRYJ2ZnoMbDPgsdCj9b/edit?usp=drivesdk&ouid=111861280793463375821&rtpof=true&sd=true" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://drive.google.com/file/d/1L10v8q0ou6jHQFgvpKodBUZK5q5B3g08/view?usp=drivesdk" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: Public health is the silent engine of economic growth. I conducted an extensive synthesis of academic and economic data to quantify how malaria hampers Nigeria's productivity. By examining the intersection of health and labor, I provided a data-backed foundation for policy and economic planning.
