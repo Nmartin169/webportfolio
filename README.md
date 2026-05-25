@@ -66,11 +66,11 @@
 <a href="https://drive.google.com/file/d/1e5H2BDFHZ0HBf3IlEvjdtUEfD9p6pQe_/view?usp=drivesdk" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
->Narrative: Fair treatment isn't just a legal requirement; it’s a competitive advantage. I conducted a comprehensive demographic and salary analysis for Maka Black Cafe to ensure their internal structures reflected their commitment to equality. By comparing internal data against industry benchmarks, I identified the "why" behind their workplace dynamics and provided a roadmap for a more inclusive future.
+>Narrative: Treatment isn’t just a medical requirement; it’s a standard of operational excellence. I designed a decentralized, high-concurrency Electronic Health Record (EHR) system using a "Hub-and-Spoke" architecture on Google Workspace to manage complex clinical workflows. By implementing a custom Gateway Router Protocol and automated lock-service mechanisms, I enabled up to 150+ clinical staff to operate simultaneously without data collisions, ensuring privacy through strictly siloed access across Front Desk, Nursing, Clinical, and Pharmacy departments.
 
->key Outcome: Transformed raw HR data into a clear strategy for closing compliance gaps and fostering a culture where every employee is valued.
+>key Outcome: Transformed administrative and clinical bottlenecks into a streamlined, high-concurrency system that ensures data integrity, real-time synchronization, and automated patient tracking from registration to pharmacy fulfillment.
 
->Tools: Power Bi, Excel, legal standards, Statistics.
+>Tools: Google Apps Script, Google Sheets, LockService, Web App Deployment, Data Architecture/Modeling.
 
 
 <iframe width="315" height="315"
