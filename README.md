@@ -70,7 +70,7 @@
 
 >key Outcome: Transformed administrative and clinical bottlenecks into a streamlined, high-concurrency system that ensures data integrity, real-time synchronization, and automated patient tracking from registration to pharmacy fulfillment.
 
->Tools: Google Apps Script, Google Sheets, LockService, Web App Deployment, Data Architecture/Modeling.
+>Tools: Google Apps Script, Google Sheets, SQL, JavaScript, Web App Deployment, Data Architecture/Modeling.
 
 
 <iframe width="315" height="315"
