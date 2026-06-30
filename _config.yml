@@ -1,6 +1,6 @@
 # # Site settings
 # title: Ikenna M. D. Nwankwo
-# logo: /assets/head_shot.png
+# logo: /assets/head_shot.webp
 # #description: Portfolio showcasing Data Analytics, Research, and Business Strategy Projects.
 # #show_downloads: true
 # theme: jekyll-theme-minimal
@@ -17,8 +17,8 @@
 # Site settings
 title: Ikenna M. D. Nwankwo
 description: Website showcasing Data Analytics, Research, and Business Strategy Projects by Ikenna M. D. Nwankwo.
-logo: /assets/head_shot.png
-image: /assets/head_shot.png
+logo: /assets/head_shot.webp
+image: /assets/head_shot.webp
 
 # Social links for the sameAs schema generation
 social:
