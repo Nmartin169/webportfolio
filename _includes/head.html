@@ -3,8 +3,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- SEO Meta Tags -->
-    <title>Ikenna M. D. Nwankwo</title>
+    {% seo %}
+    
+    <link rel="image_src" href="{{ site.url }}{{ site.baseurl }}/assets/head_shot.png">
     
     <link rel="apple-touch-icon" sizes="180x180" href="/webportfolio/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="96x96" href="/webportfolio/favicon-96x96.png">
@@ -19,40 +20,11 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/webportfolio/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/webportfolio/favicon-16x16.png">
 
-
-    <meta name="description" content="Website showcasing Data Analytics, Research, and Business Strategy Projects by Ikenna M. D. Nwankwo.">
     <meta name="thumbnail" content="{{ site.url }}{{ site.baseurl }}/assets/head_shot.png">
     <meta name="robots" content="index, follow, max-image-preview:large">
 
-    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/">
-    
-    <meta property="og:site_name" content="Ikenna M. D. Nwankwo">
-
-    
-    <!-- Open Graph -->
-    <meta property="og:title" content="Ikenna M. D. Nwankwo">
-    <meta property="og:description" content="Website showcasing Data Analytics, Research, and Business Strategy Projects.">
-    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/head_shot.png">
-    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}">
-    <meta property="og:type" content="website">
-
-    <!-- Twitter / X -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Ikenna M. D. Nwankwo">
-    <meta name="twitter:description" content="Website showcasing Data Analytics, Research, and Business Strategy Projects.">
-    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/head_shot.png">
-
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebSite",
-      "name": "Ikenna M. D. Nwankwo",
-      "url": "{{ site.url }}{{ site.baseurl }}/"
-    }
-    </script>
-    
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -63,10 +35,12 @@
       "image": "{{ site.url }}{{ site.baseurl }}/assets/head_shot.png",
       "jobTitle": "Data Analyst & Business Strategy Researcher",
       "description": "Portfolio showcasing Data Analytics, Research, and Business Strategy Projects.",
-      "knowsAbout": ["Data Analytics", "Business Strategy", "Research"]
+      "knowsAbout": ["Data Analytics", "Business Strategy", "Research"],
+      "sameAs": [
+        "https://github.com/nmartin169"
+      ]
     }
     </script>
-
     
     <style>
       :root {
@@ -156,7 +130,7 @@
       [data-theme="dark"] .light-img { display: none; }
       [data-theme="dark"] .dark-img { display: inline; }
     </style>
-    <!-- Inside _includes/head.html -->
+
     <script>
       // Immediate theme detection to prevent flashing
       const savedTheme = localStorage.getItem('theme');
@@ -166,5 +140,4 @@
         document.documentElement.removeAttribute('data-theme');
       }
     </script>
-
-  </head>
+</head>
