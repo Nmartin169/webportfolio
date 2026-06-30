@@ -1,8 +1,6 @@
 ### Business Consulting
 
->Bridging the gap between Data and impact.
 
->I don’t just capture performance; I predict and facilitate future decisions.
 <br>
 
 
