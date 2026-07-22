@@ -227,11 +227,8 @@ Business Analyst Trainee | Brainnest
 
 |---------|:------:|
 | Bachelor of Business Administration, Specialisation in Business Analysis | Nextford University, Washington DC |
-
 | Associate Degree in Business Administration  | Nextford University, Washington DC |
-
 | IBM Data Science Professional Certificate | Coursera |
-
 | IBM Data Analyst Professional Certificate | Coursera |
 
 
