@@ -225,7 +225,7 @@ Business Analyst Trainee | Brainnest
 ## EDUCATION
  
 
-| Education | Location |
+| EDUCATION | LOCATION |
 |---------|:------:|
 | Bachelor of Business Administration, Specialisation in Business Analysis | Nextford University, Washington DC |
 | Associate Degree in Business Administration  | Nextford University, Washington DC |
