@@ -1,143 +1,170 @@
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    {% seo %}
-    
-    <link rel="image_src" href="{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp">
-    
-    <link rel="apple-touch-icon" sizes="180x180" href="/webportfolio/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="/webportfolio/favicon-96x96.png">
-    <link rel="icon" href="{{ site.baseurl }}/favicon.svg" type="image/svg+xml">
-    <link rel="manifest" href="/webportfolio/site.webmanifest">
-    <link rel="mask-icon" href="/webportfolio/safari-pinned-tab.svg" color="#5bbad5">
-    <link rel="shortcut icon" href="/webportfolio/favicon.ico">
-    <meta name="apple-mobile-web-app-title" content="IkennaMD">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
+    <!-- SEO Meta Tags -->
+    <title>Ikenna M. D. Nwankwo</title>
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/webportfolio/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/webportfolio/favicon-96x96.png">
+    <link rel="icon" href="{{ site.baseurl }}/favicon.svg" type="image/svg+xml">
+    <link rel="manifest" href="/webportfolio/site.webmanifest">
+    <link rel="mask-icon" href="/webportfolio/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/webportfolio/favicon.ico">
+    <meta name="apple-mobile-web-app-title" content="IkennaMD">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
 
-    <link rel="icon" type="image/png" sizes="32x32" href="/webportfolio/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/webportfolio/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/webportfolio/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/webportfolio/favicon-16x16.png">
 
-    <meta name="thumbnail" content="{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp">
-    <meta name="robots" content="index, follow, max-image-preview:large">
 
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <meta name="description" content="Website showcasing Data Analytics, Research, and Business Strategy Projects by Ikenna M. D. Nwankwo.">
+    <meta name="thumbnail" content="{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp">
+    <meta name="robots" content="index, follow, max-image-preview:large">
 
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Person",
-      "@id": "{{ site.url }}{{ site.baseurl }}/#person",
-      "name": "Ikenna M. D. Nwankwo",
-      "url": "{{ site.url }}{{ site.baseurl }}",
-      "image": "{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp",
-      "jobTitle": "Data Analyst & Business Strategy Researcher",
-      "description": "Portfolio showcasing Data Analytics, Research, and Business Strategy Projects.",
-      "knowsAbout": ["Data Analytics", "Business Strategy", "Research"],
-      "sameAs": [
-        "https://github.com/nmartin169"
-      ]
-    }
-    </script>
-    
-    <style>
-      :root {
-        --bg-color: #ffffff;
-        --text-color: #333333;
-        --link-color: #007bff;
-        --code-bg: #f5f5f5;
-        --blockquote-color: #828282;
-        --blockquote-border: #e8e8e8;
-        --heading-color: #333;
-      }
+    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/">
+    
+    <meta property="og:site_name" content="Ikenna M. D. Nwankwo">
 
-      [data-theme="dark"] {
-        --bg-color: #0d1117;
-        --text-color: #c9d1d9;
-        --link-color: #58a6ff;
-        --code-bg: #161b22;
-        --blockquote-color: #8b949e;
-        --blockquote-border: #30363d;
-        --heading-color: #ffffff;
-      }
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="Ikenna M. D. Nwankwo">
+    <meta property="og:description" content="Website showcasing Data Analytics, Research, and Business Strategy Projects.">
+    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp">
+    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}">
+    <meta property="og:type" content="website">
 
-      body {
-        background-color: var(--bg-color);
-        color: var(--text-color);
-        transition: background-color 0.43s, color 0.43s;
-      }
+    <!-- Twitter / X -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Ikenna M. D. Nwankwo">
+    <meta name="twitter:description" content="Website showcasing Data Analytics, Research, and Business Strategy Projects.">
+    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp">
 
-      h1, h2, h3, h4, h5, h6 { color: var(--heading-color); }
-      header h1 a { color: var(--heading-color); }
-      a { color: var(--link-color); }
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
-      blockquote {
-        color: var(--blockquote-color);
-        border-left: 4px solid var(--blockquote-border);
-      }
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Ikenna M. D. Nwankwo",
+      "url": "{{ site.url }}{{ site.baseurl }}/"
+    }
+    </script>
+    
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "@id": "{{ site.url }}{{ site.baseurl }}/#person",
+      "name": "Ikenna M. D. Nwankwo",
+      "url": "{{ site.url }}{{ site.baseurl }}",
+      "image": "{{ site.url }}{{ site.baseurl }}/assets/head_shot.png",
+      "jobTitle": "Data Analyst & Business Strategy Researcher",
+      "description": "Portfolio showcasing Data Analytics, Research, and Business Strategy Projects.",
+      "knowsAbout": ["Data Analytics", "Business Strategy", "Research"]
+    }
+    </script>
 
-      code, pre { background-color: var(--code-bg); }
+    
+    <style>
+      :root {
+        --bg-color: #ffffff;
+        --text-color: #333333;
+        --link-color: #007bff;
+        --code-bg: #f5f5f5;
+        --blockquote-color: #828282;
+        --blockquote-border: #e8e8e8;
+        --heading-color: #333;
+      }
 
-      .theme-toggle-btn {
-        position: absolute;
-        top: 22.5px;
-        right: 22.5px;
-        background: transparent;
-        border: none;
-        padding: 0;
-        cursor: pointer;
-        z-index: 1000;
-        opacity: 1;
-        transition: transform 0.43s ease, opacity 0.33s ease;
-      }
+      [data-theme="dark"] {
+        --bg-color: #0d1117;
+        --text-color: #c9d1d9;
+        --link-color: #58a6ff;
+        --code-bg: #161b22;
+        --blockquote-color: #8b949e;
+        --blockquote-border: #30363d;
+        --heading-color: #ffffff;
+      }
 
-      .theme-toggle-btn img {
-        width: 22.5px;
-        height: 22.5px;
-        display: block;
-      }
+      body {
+        background-color: var(--bg-color);
+        color: var(--text-color);
+        transition: background-color 0.43s, color 0.43s;
+      }
 
-      .theme-toggle-btn:hover { opacity: 0.8; }
+      h1, h2, h3, h4, h5, h6 { color: var(--heading-color); }
+      header h1 a { color: var(--heading-color); }
+      a { color: var(--link-color); }
 
-      .theme-toggle-btn.is-transitioning {
-        opacity: 0.5;
-        pointer-events: none;
-      }
+      blockquote {
+        color: var(--blockquote-color);
+        border-left: 4px solid var(--blockquote-border);
+      }
 
-      .theme-toggle-btn.is-animating {
-        transform: rotate(180deg) scale(0.8);
-      }
+      code, pre { background-color: var(--code-bg); }
 
-      header img.logo-img {
-        border-radius: 50%;
-        margin-bottom: 12px;
-      }
+      .theme-toggle-btn {
+        position: absolute;
+        top: 22.5px;
+        right: 22.5px;
+        background: transparent;
+        border: none;
+        padding: 0;
+        cursor: pointer;
+        z-index: 1000;
+        opacity: 1;
+        transition: transform 0.43s ease, opacity 0.33s ease;
+      }
 
-      header h1 { margin-top: 0; }
+      .theme-toggle-btn img {
+        width: 22.5px;
+        height: 22.5px;
+        display: block;
+      }
 
-      @media (max-width: 768px) {
-        .theme-toggle-btn {
-          top: 10px;
-          right: 10px;
-        }
-      }
+      .theme-toggle-btn:hover { opacity: 0.8; }
 
-      .light-img { display: inline; }
-      .dark-img { display: none; }
+      .theme-toggle-btn.is-transitioning {
+        opacity: 0.5;
+        pointer-events: none;
+      }
 
-      [data-theme="dark"] .light-img { display: none; }
-      [data-theme="dark"] .dark-img { display: inline; }
-    </style>
+      .theme-toggle-btn.is-animating {
+        transform: rotate(180deg) scale(0.8);
+      }
 
-    <script>
-      // Immediate theme detection to prevent flashing
-      const savedTheme = localStorage.getItem('theme');
-      if (!savedTheme || savedTheme === 'dark') {
-        document.documentElement.setAttribute('data-theme', 'dark');
-      } else {
-        document.documentElement.removeAttribute('data-theme');
-      }
-    </script>
-</head>
+      header img.logo-img {
+        border-radius: 50%;
+        margin-bottom: 12px;
+      }
+
+      header h1 { margin-top: 0; }
+
+      @media (max-width: 768px) {
+        .theme-toggle-btn {
+          top: 10px;
+          right: 10px;
+        }
+      }
+
+      .light-img { display: inline; }
+      .dark-img { display: none; }
+
+      [data-theme="dark"] .light-img { display: none; }
+      [data-theme="dark"] .dark-img { display: inline; }
+    </style>
+    <!-- Inside _includes/head.html -->
+    <script>
+      // Immediate theme detection to prevent flashing
+      const savedTheme = localStorage.getItem('theme');
+      if (!savedTheme || savedTheme === 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      } else {
+        document.documentElement.removeAttribute('data-theme');
+      }
+    </script>
+
+  </head>
