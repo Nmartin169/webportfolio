@@ -1,16 +1,39 @@
+# # Site settings
+# title: Ikenna M. D. Nwankwo
+# logo: /assets/head_shot.webp
+# #description: Portfolio showcasing Data Analytics, Research, and Business Strategy Projects.
+# #show_downloads: true
+# theme: jekyll-theme-minimal
+# url: "https://nmartin169.github.io"
+# baseurl: "/webportfolio"
+
+# # Plugins section
+# plugins:
+#   - jekyll-sitemap
+#   - jekyll-seo-tag
+
+
+
 # Site settings
- title: Ikenna M. D. Nwankwo
- logo: /assets/head_shot.webp
- description: Portfolio showcasing Data Analytics, Research, and Business Strategy Projects.
- #show_downloads: true
- theme: jekyll-theme-minimal
- url: "https://nmartin169.github.io"
- baseurl: "/webportfolio"
+title: Ikenna M. D. Nwankwo
+description: Website showcasing Data Analytics, Research, and Business Strategy Projects by Ikenna M. D. Nwankwo.
+logo: /assets/head_shot.webp
+image: /assets/head_shot.webp
 
- # Plugins section
- plugins:
-   - jekyll-sitemap
-   - jekyll-seo-tag
+# Social links for the sameAs schema generation
+social:
+  links:
+    - https://github.com/nmartin169
+    - https://www.linkedin.com/in/ikenna-m-d-nwankwo-3a2390258
+    - https://www.instagram.com/ikennanwankwo_
+    - https://x.com/Nwankwo169
+    # Add other profile links here (e.g., LinkedIn) as needed
 
+theme: jekyll-theme-minimal
+url: "https://nmartin169.github.io"
+baseurl: "/webportfolio"
 
-
+# Plugins section
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
