@@ -32,7 +32,7 @@ social:
 theme: jekyll-theme-minimal
 url: "https://nmartin169.github.io"
 baseurl: "/webportfolio"
-
+ 
 # Plugins section
 plugins:
   - jekyll-sitemap
