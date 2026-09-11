@@ -3,36 +3,36 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <!-- Primary SEO & Social Output (Replaces manual OG/Twitter tags without conflict) -->
     {% seo %}
-    
-    <link rel="image_src" href="{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp">
-    
-    <link rel="apple-touch-icon" sizes="180x180" href="/webportfolio/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="/webportfolio/favicon-96x96.png">
-    <link rel="icon" href="{{ site.baseurl }}/favicon.svg" type="image/svg+xml">
-    <link rel="manifest" href="/webportfolio/site.webmanifest">
-    <link rel="mask-icon" href="/webportfolio/safari-pinned-tab.svg" color="#5bbad5">
-    <link rel="shortcut icon" href="/webportfolio/favicon.ico">
+
+    <!-- Google Visual Search Instruction -->
+    <meta name="robots" content="index, follow, max-image-preview:large">
+
+    <!-- Favicons & App Icons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="96x96" href="{{ '/favicon-96x96.png' | relative_url }}">
+    <link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicon-16x16.png' | relative_url }}">
+    <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}">
+    <link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}">
     <meta name="apple-mobile-web-app-title" content="IkennaMD">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
 
-    <link rel="icon" type="image/png" sizes="32x32" href="/webportfolio/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/webportfolio/favicon-16x16.png">
-
-    <meta name="thumbnail" content="{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp">
-    <meta name="robots" content="index, follow, max-image-preview:large">
-
+    <!-- Stylesheet -->
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
+    <!-- Structured Data 1: Person Identity -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Person",
       "@id": "{{ site.url }}{{ site.baseurl }}/#person",
       "name": "Ikenna M. D. Nwankwo",
-      "url": "{{ site.url }}{{ site.baseurl }}",
-      "image": "{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp",
+      "url": "{{ site.url }}{{ site.baseurl }}/",
+      "image": "{{ '/assets/head_shot.webp' | absolute_url }}",
       "jobTitle": "Data Analyst & Business Strategy Researcher",
       "description": "Portfolio showcasing Data Analytics, Research, and Business Strategy Projects.",
       "knowsAbout": ["Data Analytics", "Business Strategy", "Research"],
@@ -41,7 +41,17 @@
       ]
     }
     </script>
-    
+
+    <!-- Structured Data 2: Site Branding Fix (Overides "GitHub Pages documentation") -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Ikenna M. D. Nwankwo",
+      "url": "{{ site.url }}{{ site.baseurl }}/"
+    }
+    </script>
+
     <style>
       :root {
         --bg-color: #ffffff;
