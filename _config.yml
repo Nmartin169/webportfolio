@@ -18,16 +18,19 @@
 title: Ikenna M. D. Nwankwo
 description: Website showcasing Data Analytics, Research, and Business Strategy Projects by Ikenna M. D. Nwankwo.
 logo: /assets/head_shot.webp
-image: /assets/head_shot.webp
 
-# Social links for the sameAs schema generation
+# Image configuration for jekyll-seo-tag and Open Graph / Twitter previews
+image:
+  path: /assets/head_shot.webp
+
+# Social links for jekyll-seo-tag schema generation
 social:
+  name: Ikenna M. D. Nwankwo
   links:
     - https://github.com/nmartin169
     - https://www.linkedin.com/in/ikenna-m-d-nwankwo-3a2390258
     - https://www.instagram.com/ikennanwankwo_
     - https://x.com/Nwankwo169
-    # Add other profile links here (e.g., LinkedIn) as needed
 
 theme: jekyll-theme-minimal
 url: "https://nmartin169.github.io"
