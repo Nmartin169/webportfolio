@@ -19,9 +19,14 @@ title: Ikenna M. D. Nwankwo
 description: Website showcasing Data Analytics, Research, and Business Strategy Projects by Ikenna M. D. Nwankwo.
 logo: /assets/head_shot.webp
 
-# Image configuration for jekyll-seo-tag and Open Graph / Twitter previews
+# Image configuration for jekyll-seo-tag
 image:
   path: /assets/head_shot.webp
+
+# Twitter / X metadata for jekyll-seo-tag
+twitter:
+  username: Nwankwo169
+  card: summary_large_image
 
 # Social links for jekyll-seo-tag schema generation
 social:
