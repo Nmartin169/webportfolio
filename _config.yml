@@ -1,13 +1,51 @@
-# Site Settings
+# # Site Settings
+# title: Ikenna M. D. Nwankwo
+# description: Website showcasing Data Analytics, Research, and Business Strategy Projects by Ikenna M. D. Nwankwo.
+# logo: /assets/head_shot.webp
+
+# # Host Configuration
+# url: "https://nmartin169.github.io"
+# baseurl: "/webportfolio"
+
+# # Build Theme & Plugins
+# theme: jekyll-theme-minimal
+# plugins:
+#   - jekyll-sitemap
+
+
+
+
+# ==========================================
+# 1. CORE SITE IDENTIFIERS
+# ==========================================
 title: Ikenna M. D. Nwankwo
 description: Website showcasing Data Analytics, Research, and Business Strategy Projects by Ikenna M. D. Nwankwo.
-logo: /assets/head_shot.webp
+author: Ikenna M. D. Nwankwo
 
-# Host Configuration
+# ==========================================
+# 2. PATHS & ROUTING (CRITICAL FOR GITHUB PAGES)
+# ==========================================
 url: "https://nmartin169.github.io"
 baseurl: "/webportfolio"
 
-# Build Theme & Plugins
+# ==========================================
+# 3. ASSETS & THEME
+# ==========================================
+logo: /assets/head_shot.webp
 theme: jekyll-theme-minimal
+
+# ==========================================
+# 4. BUILD PLUGINS
+# ==========================================
+# jekyll-seo-tag is intentionally removed to avoid tag collision.
 plugins:
   - jekyll-sitemap
+
+# ==========================================
+# 5. BUILD EXCLUSIONS
+# ==========================================
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - README.md
