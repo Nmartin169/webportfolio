@@ -41,11 +41,3 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-sitemap
 
-# ==========================================
-# 5. BUILD EXCLUSIONS
-# ==========================================
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - README.md
