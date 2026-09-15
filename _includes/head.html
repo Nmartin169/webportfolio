@@ -3,61 +3,92 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Primary Search Engine Meta Tags -->
+    <!-- ========================================== -->
+    <!-- 1. GOOGLE & GENERAL SEARCH METADATA       -->
+    <!-- ========================================== -->
     <title>Ikenna M. D. Nwankwo</title>
     <meta name="title" content="Ikenna M. D. Nwankwo">
     <meta name="description" content="Website showcasing Data Analytics, Research, and Business Strategy Projects by Ikenna M. D. Nwankwo.">
     <meta name="author" content="Ikenna M. D. Nwankwo">
-    <meta name="robots" content="index, follow, max-image-preview:large">
+
+    <!-- ========================================== -->
+    <!-- 2. CRAWLER & INDEXING DIRECTIVES          -->
+    <!-- ========================================== -->
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="googlebot" content="index, follow, max-image-preview:large">
     <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/">
 
-    <!-- Open Graph / Facebook / LinkedIn -->
+    <!-- ========================================== -->
+    <!-- 3. OPEN GRAPH (FACEBOOK & LINKEDIN)        -->
+    <!-- ========================================== -->
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Ikenna M. D. Nwankwo">
     <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}/">
-    <meta property="og:title" content="Ikenna M. D. Nwankwo">
+    <meta property="og:title" content="Ikenna M. D. Nwankwo | Data Analyst & Business Strategy Portfolio">
     <meta property="og:description" content="Website showcasing Data Analytics, Research, and Business Strategy Projects by Ikenna M. D. Nwankwo.">
     <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp">
     <meta property="og:image:secure_url" content="{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp">
     <meta property="og:image:type" content="image/webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
 
-    <!-- Twitter / X -->
+    <!-- ========================================== -->
+    <!-- 4. TWITTER / X METADATA                    -->
+    <!-- ========================================== -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@Nwankwo169">
     <meta name="twitter:creator" content="@Nwankwo169">
     <meta name="twitter:url" content="{{ site.url }}{{ site.baseurl }}/">
-    <meta name="twitter:title" content="Ikenna M. D. Nwankwo">
+    <meta name="twitter:title" content="Ikenna M. D. Nwankwo | Data Analyst & Business Strategy Portfolio">
     <meta name="twitter:description" content="Website showcasing Data Analytics, Research, and Business Strategy Projects by Ikenna M. D. Nwankwo.">
     <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp">
 
-    <!-- Favicons & App Icons -->
+    <!-- ========================================== -->
+    <!-- 5. FAVICONS & APP ICONS                    -->
+    <!-- ========================================== -->
     <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}">
     <link rel="icon" type="image/png" sizes="96x96" href="{{ '/favicon-96x96.png' | relative_url }}">
-    <link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png' | relative_url }}">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicon-16x16.png' | relative_url }}">
+    <link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}">
     <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}">
     <link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}">
     <meta name="apple-mobile-web-app-title" content="IkennaMD">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
 
-    <!-- Stylesheets -->
+    <!-- ========================================== -->
+    <!-- 6. STYLESHEETS                             -->
+    <!-- ========================================== -->
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
-    <!-- JSON-LD Structured Data: Person Identity -->
+    <!-- ========================================== -->
+    <!-- 7. STRUCTURED DATA (JSON-LD)               -->
+    <!-- ========================================== -->
+    
+    <!-- Person Entity Schema (Google Knowledge Graph & Rich Snippets) -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Person",
       "@id": "{{ site.url }}{{ site.baseurl }}/#person",
-      "name": "Ikenna M. D. Nwankwo",
+      "name": "Ikenna Nwankwo",
       "url": "{{ site.url }}{{ site.baseurl }}/",
-      "image": "{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp",
+      "image": {
+        "@type": "ImageObject",
+        "url": "{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp"
+      },
       "jobTitle": "Data Analyst & Business Strategy Researcher",
       "description": "Portfolio showcasing Data Analytics, Research, and Business Strategy Projects.",
-      "knowsAbout": ["Data Analytics", "Business Strategy", "Research"],
+      "knowsAbout": [
+        "Data Analytics",
+        "Business Strategy",
+        "Research",
+        "SQL",
+        "Python",
+        "Business Intelligence"
+      ],
       "sameAs": [
         "https://github.com/nmartin169",
         "https://www.linkedin.com/in/ikenna-m-d-nwankwo-3a2390258",
@@ -67,17 +98,25 @@
     }
     </script>
 
-    <!-- JSON-LD Structured Data: Website Branding -->
+    <!-- WebSite Entity Schema (Google Search Brand Override) -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "WebSite",
       "@id": "{{ site.url }}{{ site.baseurl }}/#website",
       "name": "Ikenna M. D. Nwankwo",
-      "url": "{{ site.url }}{{ site.baseurl }}/"
+      "alternateName": ["Ikenna Nwankwo Portfolio", "Ikenna M. D. Nwankwo Website"],
+      "url": "{{ site.url }}{{ site.baseurl }}/",
+      "author": {
+        "@type": "Person",
+        "name": "Ikenna M. D. Nwankwo"
+      }
     }
     </script>
 
+    <!-- ========================================== -->
+    <!-- 8. THEME STYLES & SWITCHER                -->
+    <!-- ========================================== -->
     <style>
       :root {
         --bg-color: #ffffff;
