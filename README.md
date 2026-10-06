@@ -42,7 +42,7 @@
 >Tools: Financial modeling, ratio analysis, Excel, financial statement auditing, GAAP compliance.
 
 
-<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/DeltaTech.jpeg">
+<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/american_eagle_outfitters.jpg">
 
 
  
