@@ -31,6 +31,21 @@
 
 
  
+### Decoding Financial Health: American Eagle Outfitters Analysis.
+<a href="https://drive.google.com/file/d/1-rkCBmodVaLVoKisF07EIZ1CNLSJBY24/view?usp=drivesdk" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
+<br>
+
+>Narrative: Evaluating a company's true operational health requires looking past the surface-level revenue numbers. I conducted a rigorous multi-year financial statement analysis of American Eagle Outfitters (AEO) from 2016 to 2020, evaluating liquidity, solvency, activity, and profitability ratios. By synthesizing balance sheets, income statements, and cash flows, I provided a comprehensive diagnosis of how the firm managed capital structures, inventory turnover, and market headwinds through shifting economic cycles.
+
+>Key Outcome: Delivered a detailed strategic evaluation identifying critical shifts in enterprise leverage, working capital efficiency, and margin compression, empowering stakeholders with a clear framework for financial risk assessment.
+
+>Tools: Financial modeling, ratio analysis, Excel, financial statement auditing, GAAP compliance.
+
+
+<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/DeltaTech.jpeg">
+
+
+ 
 ### Maximizing Product Profitability: The DeltaTech Analysis.
 <a href="https://drive.google.com/file/d/1jFeX2Cl2JQ55R8h-dP8YDLoolliVYCOU/view?usp=drivesdk" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
 <br>
