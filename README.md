@@ -42,7 +42,7 @@
 >Tools: Financial modeling, ratio analysis, Excel, financial statement auditing, GAAP compliance.
 
 
-<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/american_eagle_outfitters.jpeg">
+<a href="https://drive.google.com/file/d/1-rkCBmodVaLVoKisF07EIZ1CNLSJBY24/view?usp=drivesdk" > <img src="assets/american_eagle_outfitters.jpeg"> </a>
 
 
  
@@ -57,7 +57,7 @@
 >Tools: Financial analysis, Excel, business modelling.
 
 
-<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/DeltaTech.jpeg">
+<a href="https://drive.google.com/file/d/1jFeX2Cl2JQ55R8h-dP8YDLoolliVYCOU/view?usp=drivesdk" > <img src="assets/DeltaTech.jpeg"> </a>
 
 
  
@@ -72,7 +72,7 @@
 >Tools: Research, critical evaluation, reporting, Microsoftword
 
 
-<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/malaria_ng.JPG">
+<a href="https://drive.google.com/file/d/1L10v8q0ou6jHQFgvpKodBUZK5q5B3g08/view?usp=drivesdk" > <img src="assets/malaria_ng.JPG"> </a>
 
  
  
@@ -107,7 +107,7 @@ src="https://www.youtube.com/embed/LqgG3LzSGSg?si=Xgr8Ah0quL67rtJI">
 
 >Tools: Power Bi, Excel, legal standards, Statistics
 
-<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/img_compliance.PNG">
+<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQDrA6x8jTzmSYYO85--ML5PAT6okeTq7F7Xbt9SLK43aGc" > <img src="assets/img_compliance.PNG"> </a> 
 
 
 
@@ -122,7 +122,7 @@ src="https://www.youtube.com/embed/LqgG3LzSGSg?si=Xgr8Ah0quL67rtJI">
 
 >Tools: Python, ML, sklearn, pandas.
 
-<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/housing_prediction.JPG">
+<a href="https://github.com/Nmartin169/Nportfolio/blob/main/DATA%20MINING/PREDICTIVE_ANALYSIS_ON_HOUSING_USING_MACHINE_LEARNING.ipynb" > <img src="assets/housing_prediction.JPG"> </a> 
 
 
 
@@ -137,7 +137,7 @@ src="https://www.youtube.com/embed/LqgG3LzSGSg?si=Xgr8Ah0quL67rtJI">
 
 >Tools: SQL, Jupyter notebook, Python, Cognos Analytics, Plotly, and Pandas.
 
-<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/technologies_trend.JPG">
+<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQAYQmIamG-7QbfkShpnDw6xAaD27rjh7Ey0SIZRqtmHciY" > <img src="assets/technologies_trend.JPG"> </a>
 
 
 
@@ -152,7 +152,7 @@ src="https://www.youtube.com/embed/LqgG3LzSGSg?si=Xgr8Ah0quL67rtJI">
 
 >Tools: Python, Dash, HTML, Plotly Express, EDA.
 
-<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/dash_app.PNG">
+<a href="https://github.com/Nmartin169/Nportfolio/tree/main/Dash%20App%20Development%20for%20US%20Domestic%20Airline%20Flight%20Performance" > <img src="assets/dash_app.PNG"> </a>
 
 
 
@@ -191,7 +191,7 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
 >Tools: Business analysis frameworks, report writing.
  
 
-<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/img_external.JPG">
+<a href="https://docs.google.com/presentation/d/1Cvzs0za7FkEyUnymAD-NiMbeta5pJfBH/edit?usp=drivesdk&ouid=111861280793463375821&rtpof=true&sd=true" > <img src="assets/img_external.JPG"> </a>
 
 
  
@@ -206,7 +206,7 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
 >Tools: Strategic analysis, frameworks, documentation.
 
 
-<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/Img_internal.JPG">
+<a href="https://docs.google.com/presentation/d/1cJfu9wqcdFkIzL4dTRU9PyLMw2cbt1KE/edit?usp=drivesdk&ouid=111861280793463375821&rtpof=true&sd=true" > <img src="assets/Img_internal.JPG"> </a>
 
 
 
