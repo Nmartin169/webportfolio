@@ -27,7 +27,7 @@
 >Tools: Research, analysis, report writing, Microsoftword.
 
 
-<img src="https://raw.githubusercontent.com/Nmartin169/webportfolio/refs/heads/main/assets/china_research.JPG">
+<a href="https://drive.google.com/file/d/1cTj5i9JYwUHAFteX_OxsgKQzos_Fz-wQ/view?usp=drivesdk" > <img src="assets/china_research.JPG"> </a>
 
 
  
