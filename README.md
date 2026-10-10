@@ -7,7 +7,8 @@
 
 
 
-<a href="https://github.com/Nmartin169/Nportfolio" class="theme-img"> <img src="assets/github_light.PNG" style="max-width:9.5%; height:auto;" class="light-img" alt="Logo"> <img src="assets/github_dark.png" style="max-width:9.5%; height:auto;" class="dark-img" alt="Logo"> </a>  <a href="https://www.linkedin.com/in/ikenna-m-d-nwankwo-3a2390258"> <img src="assets/linkedIn.png" style="max-width:9.5%; margin-left:16px; height:auto;"> </a>     <a href="mailto:martin.nwankwo.169@gmail.com" class="theme-img"> <img src="assets/mail_light.png" style="max-width:9.5%; margin-left:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/mail_dark.png" style="max-width:9.5%; margin-left:16px; height:auto;" class="dark-img" alt="Logo"> </a>  <a href="https://wa.me/2348053056811"> <img src="assets/whatsapp.WEBP" style="max-width:9.5%; margin-left:16px; height:auto;"> </a>   
+<a href="https://github.com/Nmartin169/Nportfolio" class="theme-img"> <img src="
+{{ site.baseurl }}/assets/github_light.PNG" style="max-width:9.5%; height:auto;" class="light-img" alt="Logo"> <img src="{{ site.baseurl }}/assets/github_dark.png" style="max-width:9.5%; height:auto;" class="dark-img" alt="Logo"> </a>  <a href="https://www.linkedin.com/in/ikenna-m-d-nwankwo-3a2390258"> <img src="{{ site.baseurl }}/assets/linkedIn.png" style="max-width:9.5%; margin-left:16px; height:auto;"> </a>     <a href="mailto:martin.nwankwo.169@gmail.com" class="theme-img"> <img src="{{ site.baseurl }}/assets/mail_light.png" style="max-width:9.5%; margin-left:16px; height:auto;" class="light-img" alt="Logo"> <img src="{{ site.baseurl }}/assets/mail_dark.png" style="max-width:9.5%; margin-left:16px; height:auto;" class="dark-img" alt="Logo"> </a>  <a href="https://wa.me/2348053056811"> <img src="{{ site.baseurl }}/assets/whatsapp.WEBP" style="max-width:9.5%; margin-left:16px; height:auto;"> </a>   
 
 <br>
 
@@ -17,7 +18,7 @@
 ## RESEARCH PROJECT
  
 ### De-risking Global Expansion: Navigating the Chinese Market
-<a href="https://drive.google.com/file/d/1cTj5i9JYwUHAFteX_OxsgKQzos_Fz-wQ/view?usp=drivesdk" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
+<a href="https://drive.google.com/file/d/1cTj5i9JYwUHAFteX_OxsgKQzos_Fz-wQ/view?usp=drivesdk" class="theme-img"> <img src="{{ site.baseurl }}/assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="{{ site.baseurl }}/assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
 <br>
 
 >Narrative: Scaling into a new territory requires more than just capital; it requires a deep understanding of local nuances. I conducted a comprehensive study of China’s regulatory landscape and economic drivers to help businesses minimize entry risks.
@@ -27,12 +28,12 @@
 >Tools: Research, analysis, report writing, Microsoftword.
 
 
-<a href="https://drive.google.com/file/d/1cTj5i9JYwUHAFteX_OxsgKQzos_Fz-wQ/view?usp=drivesdk" class="theme-img"> <img src="assets/china_research.JPG"> </a>
+<a href="https://drive.google.com/file/d/1cTj5i9JYwUHAFteX_OxsgKQzos_Fz-wQ/view?usp=drivesdk" class="theme-img"> <img src="{{ site.baseurl }}/assets/china_research.JPG"> </a>
 
 
  
 ### Decoding Financial Health: American Eagle Outfitters Analysis.
-<a href="https://drive.google.com/file/d/1-rkCBmodVaLVoKisF07EIZ1CNLSJBY24/view?usp=drivesdk" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
+<a href="https://drive.google.com/file/d/1-rkCBmodVaLVoKisF07EIZ1CNLSJBY24/view?usp=drivesdk" class="theme-img"> <img src="{{ site.baseurl }}/assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="{{ site.baseurl }}/assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
 <br>
 
 >Narrative: Evaluating a company's true operational health requires looking past the surface-level revenue numbers. I conducted a rigorous multi-year financial statement analysis of American Eagle Outfitters (AEO) from 2016 to 2020, evaluating liquidity, solvency, activity, and profitability ratios. By synthesizing balance sheets, income statements, and cash flows, I provided a comprehensive diagnosis of how the firm managed capital structures, inventory turnover, and market headwinds through shifting economic cycles.
@@ -42,12 +43,12 @@
 >Tools: Financial modeling, ratio analysis, Excel, financial statement auditing, GAAP compliance.
 
 
-<a href="https://drive.google.com/file/d/1-rkCBmodVaLVoKisF07EIZ1CNLSJBY24/view?usp=drivesdk" class="theme-img"> <img src="assets/american_eagle_outfitters.jpeg"> </a>
+<a href="https://drive.google.com/file/d/1-rkCBmodVaLVoKisF07EIZ1CNLSJBY24/view?usp=drivesdk" class="theme-img"> <img src="{{ site.baseurl }}/assets/american_eagle_outfitters.jpeg"> </a>
 
 
  
 ### Maximizing Product Profitability: The DeltaTech Analysis.
-<a href="https://drive.google.com/file/d/1jFeX2Cl2JQ55R8h-dP8YDLoolliVYCOU/view?usp=drivesdk" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
+<a href="https://drive.google.com/file/d/1jFeX2Cl2JQ55R8h-dP8YDLoolliVYCOU/view?usp=drivesdk" class="theme-img"> <img src="{{ site.baseurl }}/assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="{{ site.baseurl }}/assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a> 
 <br>
 
 >Narrative: When launching a new product like the DeltaPro Wireless Headphones, guessing the price is a risk no company can afford. I developed a rigorous financial model to evaluate production costs and profitability metrics. By analyzing the key drivers of cost, I provided the leadership team with the clarity needed to set competitive prices and scale production safely.
@@ -57,12 +58,12 @@
 >Tools: Financial analysis, Excel, business modelling.
 
 
-<a href="https://drive.google.com/file/d/1jFeX2Cl2JQ55R8h-dP8YDLoolliVYCOU/view?usp=drivesdk" class="theme-img"> <img src="assets/DeltaTech.jpeg"> </a>
+<a href="https://drive.google.com/file/d/1jFeX2Cl2JQ55R8h-dP8YDLoolliVYCOU/view?usp=drivesdk" class="theme-img"> <img src="{{ site.baseurl }}/assets/DeltaTech.jpeg"> </a>
 
 
  
 ### Strengthening the Nation: The Economic Case for Malaria Eradication.
-<a href="https://drive.google.com/file/d/1L10v8q0ou6jHQFgvpKodBUZK5q5B3g08/view?usp=drivesdk" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://drive.google.com/file/d/1L10v8q0ou6jHQFgvpKodBUZK5q5B3g08/view?usp=drivesdk" class="theme-img"> <img src="{{ site.baseurl }}/assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="{{ site.baseurl }}/assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: Public health is the silent engine of economic growth. I conducted an extensive synthesis of academic and economic data to quantify how malaria hampers Nigeria's productivity. By examining the intersection of health and labor, I provided a data-backed foundation for policy and economic planning.
@@ -72,7 +73,7 @@
 >Tools: Research, critical evaluation, reporting, Microsoftword
 
 
-<a href="https://drive.google.com/file/d/1L10v8q0ou6jHQFgvpKodBUZK5q5B3g08/view?usp=drivesdk" class="theme-img"> <img src="assets/malaria_ng.JPG"> </a>
+<a href="https://drive.google.com/file/d/1L10v8q0ou6jHQFgvpKodBUZK5q5B3g08/view?usp=drivesdk" class="theme-img"> <img src="{{ site.baseurl }}/assets/malaria_ng.JPG"> </a>
 
  
  
@@ -80,7 +81,7 @@
  
 
 ### Optimizing Healthcare Delivery: The Medical EHR Development
-<a href="https://drive.google.com/file/d/1e5H2BDFHZ0HBf3IlEvjdtUEfD9p6pQe_/view?usp=drivesdk" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://drive.google.com/file/d/1e5H2BDFHZ0HBf3IlEvjdtUEfD9p6pQe_/view?usp=drivesdk" class="theme-img"> <img src="{{ site.baseurl }}/assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="{{ site.baseurl }}/assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: Treatment isn’t just a medical requirement; it’s a standard of operational excellence. I designed a decentralized, high-concurrency Electronic Health Record (EHR) system using a "Hub-and-Spoke" architecture on Google Workspace to manage complex clinical workflows. By implementing a custom Gateway Router Protocol and automated lock-service mechanisms, I enabled up to 150+ clinical staff to operate simultaneously without data collisions, ensuring privacy through strictly siloed access across Front Desk, Nursing, Clinical, and Pharmacy departments.
@@ -98,7 +99,7 @@ src="https://www.youtube.com/embed/LqgG3LzSGSg?si=Xgr8Ah0quL67rtJI">
 
  
 ### Building Equity: A Data-Driven Review of Workplace Equality
-<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQDrA6x8jTzmSYYO85--ML5PAT6okeTq7F7Xbt9SLK43aGc" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQDrA6x8jTzmSYYO85--ML5PAT6okeTq7F7Xbt9SLK43aGc" class="theme-img"> <img src="{{ site.baseurl }}/assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="{{ site.baseurl }}/assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: Fair treatment isn't just a legal requirement; it’s a competitive advantage. I conducted a comprehensive demographic and salary analysis for Maka Black Cafe to ensure their internal structures reflected their commitment to equality. By comparing internal data against industry benchmarks, I identified the "why" behind their workplace dynamics and provided a roadmap for a more inclusive future.
@@ -107,13 +108,13 @@ src="https://www.youtube.com/embed/LqgG3LzSGSg?si=Xgr8Ah0quL67rtJI">
 
 >Tools: Power Bi, Excel, legal standards, Statistics
 
-<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQDrA6x8jTzmSYYO85--ML5PAT6okeTq7F7Xbt9SLK43aGc" class="theme-img"> <img src="assets/img_compliance.PNG"> </a> 
+<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQDrA6x8jTzmSYYO85--ML5PAT6okeTq7F7Xbt9SLK43aGc" class="theme-img"> <img src="{{ site.baseurl }}/assets/img_compliance.PNG"> </a> 
 
 
 
  
 ### Anticipating the Market: Predictive Modeling for Real Estate
-<a href="https://github.com/Nmartin169/Nportfolio/blob/main/DATA%20MINING/PREDICTIVE_ANALYSIS_ON_HOUSING_USING_MACHINE_LEARNING.ipynb" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://github.com/Nmartin169/Nportfolio/blob/main/DATA%20MINING/PREDICTIVE_ANALYSIS_ON_HOUSING_USING_MACHINE_LEARNING.ipynb" class="theme-img"> <img src="{{ site.baseurl }}/assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="{{ site.baseurl }}/assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: In a volatile property market, looking at the past isn't enough; you have to see around the corner. I built a machine learning framework designed to identify the hidden variables that drive property value. By analyzing historical data through advanced regression models, I created a tool that helps stakeholders understand not just what a house is worth today, but what it will be worth tomorrow.
@@ -122,13 +123,13 @@ src="https://www.youtube.com/embed/LqgG3LzSGSg?si=Xgr8Ah0quL67rtJI">
 
 >Tools: Python, ML, sklearn, pandas.
 
-<a href="https://github.com/Nmartin169/Nportfolio/blob/main/DATA%20MINING/PREDICTIVE_ANALYSIS_ON_HOUSING_USING_MACHINE_LEARNING.ipynb" class="theme-img"> <img src="assets/housing_prediction.JPG"> </a> 
+<a href="https://github.com/Nmartin169/Nportfolio/blob/main/DATA%20MINING/PREDICTIVE_ANALYSIS_ON_HOUSING_USING_MACHINE_LEARNING.ipynb" class="theme-img"> <img src="{{ site.baseurl }}/assets/housing_prediction.JPG"> </a> 
 
 
 
  
 ### Future-Proofing the Enterprise: A Roadmap of Emerging Technologies
-<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQAYQmIamG-7QbfkShpnDw6xAaD27rjh7Ey0SIZRqtmHciY" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQAYQmIamG-7QbfkShpnDw6xAaD27rjh7Ey0SIZRqtmHciY" class="theme-img"> <img src="{{ site.baseurl }}/assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="{{ site.baseurl }}/assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: In an industry that moves at lightning speed, staying relevant requires more than just awareness; it requires a data-backed strategy. I conducted a comprehensive review of evolving software technologies to provide a clear roadmap for organizational upskilling and technical growth. By synthesizing market shifts into a comparative review, I help leadership teams decide which technologies are worth the investment and which are just noise.
@@ -137,13 +138,13 @@ src="https://www.youtube.com/embed/LqgG3LzSGSg?si=Xgr8Ah0quL67rtJI">
 
 >Tools: SQL, Jupyter notebook, Python, Cognos Analytics, Plotly, and Pandas.
 
-<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQAYQmIamG-7QbfkShpnDw6xAaD27rjh7Ey0SIZRqtmHciY" class="theme-img"> <img src="assets/technologies_trend.JPG"> </a>
+<a href="https://1drv.ms/p/c/d9ea19b8e97dec1d/IQAYQmIamG-7QbfkShpnDw6xAaD27rjh7Ey0SIZRqtmHciY" class="theme-img"> <img src="{{ site.baseurl }}/assets/technologies_trend.JPG"> </a>
 
 
 
  
 ### Visualizing Operational Excellence: US Aviation Analytics
-<a href="https://github.com/Nmartin169/Nportfolio/tree/main/Dash%20App%20Development%20for%20US%20Domestic%20Airline%20Flight%20Performance" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://github.com/Nmartin169/Nportfolio/tree/main/Dash%20App%20Development%20for%20US%20Domestic%20Airline%20Flight%20Performance" class="theme-img"> <img src="{{ site.baseurl }}/assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="{{ site.baseurl }}/assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: Managing domestic flight data requires a tool that can handle complexity without sacrificing speed. I developed an interactive dashboard to map out U.S. airline performance, allowing stakeholders to identify delay patterns and operational trends in seconds. By transforming raw data into visual logic, I created a way for teams to see exactly where their bottlenecks are.
@@ -152,13 +153,13 @@ src="https://www.youtube.com/embed/LqgG3LzSGSg?si=Xgr8Ah0quL67rtJI">
 
 >Tools: Python, Dash, HTML, Plotly Express, EDA.
 
-<a href="https://github.com/Nmartin169/Nportfolio/tree/main/Dash%20App%20Development%20for%20US%20Domestic%20Airline%20Flight%20Performance" class="theme-img"> <img src="assets/dash_app.PNG"> </a>
+<a href="https://github.com/Nmartin169/Nportfolio/tree/main/Dash%20App%20Development%20for%20US%20Domestic%20Airline%20Flight%20Performance" class="theme-img"> <img src="{{ site.baseurl }}/assets/dash_app.PNG"> </a>
 
 
 
  
 ### Reclaiming Time: High-Impact Workflow Automation
-<a href="https://drive.google.com/file/d/1RXf69SAnH5S-5x3_Ou1soHEu5osteAQO/view?usp=drivesdk" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://drive.google.com/file/d/1RXf69SAnH5S-5x3_Ou1soHEu5osteAQO/view?usp=drivesdk" class="theme-img"> <img src="{{ site.baseurl }}/assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="{{ site.baseurl }}/assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
  
 >Narrative: Manual data entry isn't just slow; it’s a barrier to growth. I designed a custom automation suite using Excel VBA and advanced lookup functions to transform a tedious sales computation process into a streamlined, one-click operation. By removing the burden of manual input, I empowered the team to redirect their energy toward customer service and strategic planning.
@@ -181,7 +182,7 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
 ## BUSINESS PROJECT
  
 ### Decoding Competition: Strategic Positioning & Market Dynamics
-<a href="https://docs.google.com/presentation/d/1Cvzs0za7FkEyUnymAD-NiMbeta5pJfBH/edit?usp=drivesdk&ouid=111861280793463375821&rtpof=true&sd=true" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://docs.google.com/presentation/d/1Cvzs0za7FkEyUnymAD-NiMbeta5pJfBH/edit?usp=drivesdk&ouid=111861280793463375821&rtpof=true&sd=true" class="theme-img"> <img src="{{ site.baseurl }}/assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="{{ site.baseurl }}/assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: Success isn't just about what happens inside a company; it’s about how that company dances with the world outside. I performed a high-level external analysis using the PESTEL and Porter’s Five Forces frameworks to map out the political, economic, and competitive currents affecting various industries. By identifying these "invisible" forces, I provided the strategic insights needed to navigate market volatility with confidence.
@@ -191,12 +192,12 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
 >Tools: Business analysis frameworks, report writing.
  
 
-<a href="https://docs.google.com/presentation/d/1Cvzs0za7FkEyUnymAD-NiMbeta5pJfBH/edit?usp=drivesdk&ouid=111861280793463375821&rtpof=true&sd=true" class="theme-img"> <img src="assets/img_external.JPG"> </a>
+<a href="https://docs.google.com/presentation/d/1Cvzs0za7FkEyUnymAD-NiMbeta5pJfBH/edit?usp=drivesdk&ouid=111861280793463375821&rtpof=true&sd=true" class="theme-img"> <img src="{{ site.baseurl }}/assets/img_external.JPG"> </a>
 
 
  
 ### Unlocking Operational Excellence: A Strategic Internal Audit
-<a href="https://docs.google.com/presentation/d/1cJfu9wqcdFkIzL4dTRU9PyLMw2cbt1KE/edit?usp=drivesdk&ouid=111861280793463375821&rtpof=true&sd=true" class="theme-img"> <img src="assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
+<a href="https://docs.google.com/presentation/d/1cJfu9wqcdFkIzL4dTRU9PyLMw2cbt1KE/edit?usp=drivesdk&ouid=111861280793463375821&rtpof=true&sd=true" class="theme-img"> <img src="{{ site.baseurl }}/assets/link_light.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="light-img" alt="Logo"> <img src="{{ site.baseurl }}/assets/link_dark.png" style="max-width:7.0%; float:left; margin-right:16px; height:auto;" class="dark-img" alt="Logo"> </a>
 <br>
 
 >Narrative: A business is only as strong as its internal architecture. I conducted deep-dive assessments of firm operations using SWOT, Value Chain, and BCG Matrix frameworks to identify hidden efficiencies and strategic gaps. By looking under the hood of an organization, I provided the clarity needed to align internal capabilities with long-term goals.
@@ -206,7 +207,7 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
 >Tools: Strategic analysis, frameworks, documentation.
 
 
-<a href="https://docs.google.com/presentation/d/1cJfu9wqcdFkIzL4dTRU9PyLMw2cbt1KE/edit?usp=drivesdk&ouid=111861280793463375821&rtpof=true&sd=true" class="theme-img"> <img src="assets/Img_internal.JPG"> </a>
+<a href="https://docs.google.com/presentation/d/1cJfu9wqcdFkIzL4dTRU9PyLMw2cbt1KE/edit?usp=drivesdk&ouid=111861280793463375821&rtpof=true&sd=true" class="theme-img"> <img src="{{ site.baseurl }}/assets/Img_internal.JPG"> </a>
 
 
 
@@ -261,7 +262,7 @@ Business Analyst Trainee | Brainnest
 <br>
 
 
-<a href="https://github.com/Nmartin169/Nportfolio" class="theme-img"> <img src="assets/github_light.PNG" style="max-width:9.5%; height:auto;" class="light-img" alt="Logo"> <img src="assets/github_dark.png" style="max-width:9.5%; height:auto;" class="dark-img" alt="Logo"> </a>  <a href="https://www.linkedin.com/in/ikenna-m-d-nwankwo-3a2390258"> <img src="assets/linkedIn.png" style="max-width:9.5%; margin-left:16px; height:auto;"> </a>     <a href="mailto:martin.nwankwo.169@gmail.com" class="theme-img"> <img src="assets/mail_light.png" style="max-width:9.5%; margin-left:16px; height:auto;" class="light-img" alt="Logo"> <img src="assets/mail_dark.png" style="max-width:9.5%; margin-left:16px; height:auto;" class="dark-img" alt="Logo"> </a>  <a href="https://wa.me/2348053056811"> <img src="assets/whatsapp.WEBP" style="max-width:9.5%; margin-left:16px; height:auto;"> </a>   
+<a href="https://github.com/Nmartin169/Nportfolio" class="theme-img"> <img src="{{ site.baseurl }}/assets/github_light.PNG" style="max-width:9.5%; height:auto;" class="light-img" alt="Logo"> <img src="{{ site.baseurl }}/assets/github_dark.png" style="max-width:9.5%; height:auto;" class="dark-img" alt="Logo"> </a>  <a href="https://www.linkedin.com/in/ikenna-m-d-nwankwo-3a2390258"> <img src="{{ site.baseurl }}/assets/linkedIn.png" style="max-width:9.5%; margin-left:16px; height:auto;"> </a>     <a href="mailto:martin.nwankwo.169@gmail.com" class="theme-img"> <img src="{{ site.baseurl }}/assets/mail_light.png" style="max-width:9.5%; margin-left:16px; height:auto;" class="light-img" alt="Logo"> <img src="{{ site.baseurl }}/assets/mail_dark.png" style="max-width:9.5%; margin-left:16px; height:auto;" class="dark-img" alt="Logo"> </a>  <a href="https://wa.me/2348053056811"> <img src="{{ site.baseurl }}/assets/whatsapp.WEBP" style="max-width:9.5%; margin-left:16px; height:auto;"> </a>   
 
 
 
