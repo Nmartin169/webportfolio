@@ -18,25 +18,15 @@
     <meta name="googlebot" content="index, follow, max-image-preview:large">
     <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/">
 
-     
-    <!-- ========================================== -->
-    <!-- 3. OPEN GRAPH (FACEBOOK & LINKEDIN)        -->
+     <!-- 3. OPEN GRAPH (FACEBOOK & LINKEDIN)        -->
     <!-- ========================================== -->
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Ikenna M. D. Nwankwo">
     <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}/">
     <meta property="og:title" content="Ikenna M. D. Nwankwo | Data Analyst & Business Strategy Portfolio">
     <meta property="og:description" content="Website showcasing Data Analytics, Research, and Business Strategy Projects by Ikenna M. D. Nwankwo.">
-    
-    {% if site.url contains "github.io" %}
-      <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp">
-      <meta property="og:image:secure_url" content="{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp">
-    {% else %}
-      <!-- Vercel or other custom domain fallback -->
-      <meta property="og:image" content="{{ page.url | absolute_url | replace: page.url, '' }}/assets/head_shot.webp">
-      <meta property="og:image:secure_url" content="{{ page.url | absolute_url | replace: page.url, '' }}/assets/head_shot.webp">
-    {% endif %}
-    
+    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp">
+    <meta property="og:image:secure_url" content="{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp">
     <meta property="og:image:type" content="image/webp">
     <meta property="og:locale" content="en_US">
 
@@ -49,12 +39,7 @@
     <meta name="twitter:url" content="{{ site.url }}{{ site.baseurl }}/">
     <meta name="twitter:title" content="Ikenna M. D. Nwankwo | Data Analyst & Business Strategy Portfolio">
     <meta name="twitter:description" content="Website showcasing Data Analytics, Research, and Business Strategy Projects by Ikenna M. D. Nwankwo.">
-    
-    {% if site.url contains "github.io" %}
-      <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp">
-    {% else %}
-      <meta name="twitter:image" content="{{ page.url | absolute_url | replace: page.url, '' }}/assets/head_shot.webp">
-    {% endif %}
+    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp">
 
 
     <!-- ========================================== -->
