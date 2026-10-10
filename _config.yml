@@ -31,7 +31,7 @@ baseurl: "/webportfolio"
 # ==========================================
 # 3. ASSETS & THEME
 # ==========================================
-logo: /assets/head_shot.webp
+logo: {{ site.baseurl }}/assets/head_shot.webp
 theme: jekyll-theme-minimal
 
 # ==========================================
