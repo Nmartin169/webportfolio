@@ -18,6 +18,7 @@
     <meta name="googlebot" content="index, follow, max-image-preview:large">
     <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/">
 
+    
     <!-- ========================================== -->
     <!-- 3. OPEN GRAPH (FACEBOOK & LINKEDIN)        -->
     <!-- ========================================== -->
@@ -26,9 +27,7 @@
     <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}/">
     <meta property="og:title" content="Ikenna M. D. Nwankwo | Data Analyst & Business Strategy Portfolio">
     <meta property="og:description" content="Website showcasing Data Analytics, Research, and Business Strategy Projects by Ikenna M. D. Nwankwo.">
-    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp">
-    <meta property="og:image:secure_url" content="{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp">
-    <meta property="og:image:type" content="image/webp">
+    <meta property="og:image" content="{% if jekyll.environment == 'production' and site.url contains 'vercel' %}https://webportfolio-nine-phi.vercel.app/assets/head_shot.webp{% else %}{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp{% endif %}">
     <meta property="og:locale" content="en_US">
 
     <!-- ========================================== -->
@@ -37,10 +36,9 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@Nwankwo169">
     <meta name="twitter:creator" content="@Nwankwo169">
-    <meta name="twitter:url" content="{{ site.url }}{{ site.baseurl }}/">
     <meta name="twitter:title" content="Ikenna M. D. Nwankwo | Data Analyst & Business Strategy Portfolio">
     <meta name="twitter:description" content="Website showcasing Data Analytics, Research, and Business Strategy Projects by Ikenna M. D. Nwankwo.">
-    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp">
+    <meta name="twitter:image" content="{% if jekyll.environment == 'production' and site.url contains 'vercel' %}https://webportfolio-nine-phi.vercel.app/assets/head_shot.webp{% else %}{{ site.url }}{{ site.baseurl }}/assets/head_shot.webp{% endif %}">
 
     <!-- ========================================== -->
     <!-- 5. FAVICONS & APP ICONS                    -->
