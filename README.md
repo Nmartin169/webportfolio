@@ -74,7 +74,7 @@
 
 
 <a href="https://drive.google.com/file/d/1L10v8q0ou6jHQFgvpKodBUZK5q5B3g08/view?usp=drivesdk" class="theme-img"> <img src="{{ site.baseurl }}/assets/malaria_ng.JPG"> </a>
-
+<br>
  
  
 ## DATA PROJECT
@@ -172,7 +172,7 @@ src="https://www.youtube.com/embed/LqgG3LzSGSg?si=Xgr8Ah0quL67rtJI">
 <iframe width="315" height="315"
 src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
 </iframe>
-
+<br>
 
  
 
@@ -208,7 +208,7 @@ src="https://www.youtube.com/embed/3ymDPUlxM1s?si=8DcCIA0oiU6Dfl9y">
 
 
 <a href="https://docs.google.com/presentation/d/1cJfu9wqcdFkIzL4dTRU9PyLMw2cbt1KE/edit?usp=drivesdk&ouid=111861280793463375821&rtpof=true&sd=true" class="theme-img"> <img src="{{ site.baseurl }}/assets/Img_internal.JPG"> </a>
-
+<br>
 
 
 
@@ -236,6 +236,7 @@ Business Analyst Trainee | Brainnest
 * Synthesized historical performance data to design a BCG Matrix for Dangote Group, enabling a clear visualization of product portfolio strength and investment priorities.
 * Executed a deep-dive competitive analysis of the French cosmetic industry, utilizing Porter’s Diamond Model to identify the structural drivers of market success.
 
+<br>
  
  
 ## EDUCATION
